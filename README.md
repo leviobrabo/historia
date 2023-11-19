@@ -24,19 +24,19 @@ Os conteúdos estão disponibilizadas em quatro formatos:
 
 ## Exemplo XML
 
-- Clique aqui
+- [Clique aqui](https://github.com/leviobrabo/historia-de-hoje/tree/main/xml#xml)
 
 ## Exemplo SQL
 
-- Clique aqui
+- [Clique aqui](https://github.com/leviobrabo/historia-de-hoje/tree/main/sql#sql)
 
 ## Exemplo JSON
 
-- Clique aqui
+- [Clique aqui](https://github.com/leviobrabo/historia-de-hoje/blob/main/json/README.md#json)
 
 ## Exemplo YAML
 
-- Clique aqui
+- [Clique aqui](https://github.com/leviobrabo/historia-de-hoje/tree/main/yaml#yaml)
 
 # Como os arquivos foram montados?
 
