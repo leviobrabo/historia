@@ -1,0 +1,65 @@
+{
+    "1": {
+        "titulo": "Presidente da China 🇨🇳",
+        "posicao": "1",
+        "nome": "Mao Zedong",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Mao_Zedong_1959_(cropped).jpg",
+        "partido": "Comunista da China",
+        "ano_de_mandato": "27 de setembro de 1954 - 27 de abril de 1959",
+        "vice_presidente": "Zhu De"
+    },
+    "2": {
+        "titulo": "Presidente da China 🇨🇳",
+        "posicao": "2",
+        "nome": "Liu Shaoqi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:LiuShaoqi.jpg",
+        "partido": "Comunista da China",
+        "ano_de_mandato": "27 de abril de 1959 - 31 de outubro de 1968",
+        "vice_presidente": "Song QinglingDong Biwu"
+    },
+    "3": {
+        "titulo": "Presidente da China 🇨🇳",
+        "posicao": "3",
+        "nome": "Li Xiannian",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Li_Xiannian.png",
+        "partido": "Comunista da China",
+        "ano_de_mandato": "18 de junho de 1983 - 8 de abril de 1988",
+        "vice_presidente": "Ulanhu"
+    },
+    "4": {
+        "titulo": "Presidente da China 🇨🇳",
+        "posicao": "4",
+        "nome": "Yang Shangkun",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yang_Shangkun_2.jpg",
+        "partido": "Comunista da China",
+        "ano_de_mandato": "8 de abril de 1988 - 27 de março de 1993",
+        "vice_presidente": "Wang Zhen"
+    },
+    "5": {
+        "titulo": "Presidente da China 🇨🇳",
+        "posicao": "5",
+        "nome": "Jiang Zemin",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Jiang_Zemin_2002.jpg",
+        "partido": "Comunista da China",
+        "ano_de_mandato": "27 de março de 1993 - 15 de março de 2003",
+        "vice_presidente": "Rong YirenHu Jintao"
+    },
+    "6": {
+        "titulo": "Presidente da China 🇨🇳",
+        "posicao": "6",
+        "nome": "Hu Jintao",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Hu_Jintao_2012.jpg",
+        "partido": "Comunista da China",
+        "ano_de_mandato": "15 de março de 2003 - 15 de março de 2013",
+        "vice_presidente": "Zeng QinghongXi Jinping"
+    },
+    "7": {
+        "titulo": "Presidente da China 🇨🇳",
+        "posicao": "7",
+        "nome": "Xi Jinping",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Xi_Jinping_portrait_2019_(cropped).jpg",
+        "partido": "Comunista da China",
+        "ano_de_mandato": "15 de março de 2013 - Incumbente",
+        "vice_presidente": "Li YuanchaoWang Qishan"
+    }
+}

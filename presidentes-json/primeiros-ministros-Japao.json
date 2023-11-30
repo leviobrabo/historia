@@ -1,0 +1,578 @@
+{
+    "1": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "1",
+        "nome": "Ito Hirobumi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:IT%C5%8C_Hirobumi.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "1885-1888",
+        "vice-c": "Não informado"
+    },
+    "2": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "2",
+        "nome": "Kuroda Kiyotaka",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Kiyotaka_Kuroda_formal_cropped.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "1888-1889",
+        "vice-presidente": "Não informado"
+    },
+    "3": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "3",
+        "nome": "Yamagata Aritomo",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Aritomo_Yamagata_3.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "1889-1891",
+        "vice-presidente": "Não informado"
+    },
+    "4": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "4",
+        "nome": "Matsukata Masayoshi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Masayoshi_Matsukata_suit.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "1891-1892",
+        "vice-presidente": "Não informado"
+    },
+    "5": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "5",
+        "nome": "Okuma Shigenobu",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:%C5%8Ckuma_Shigenobu.jpg",
+        "partido": "Constitucional (Kenseito)",
+        "ano_de_mandato": "1898-1898",
+        "vice-presidente": "Não informado"
+    },
+    "6": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "6",
+        "nome": "Katsura Taro",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Taro_Katsura_suit.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "1901-1906",
+        "vice-presidente": "Não informado"
+    },
+    "7": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "7",
+        "nome": "Saionji Kinmochi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:PM_Kinmochi_Saionji_cropped.jpg",
+        "partido": "Constitucional (Seiyukai)",
+        "ano_de_mandato": "1906-1908",
+        "vice-presidente": "Não informado"
+    },
+    "8": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "8",
+        "nome": "Yamamoto Gonnohyoe",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yamamoto_Gonnohyoe_2.jpg",
+        "partido": "Militar",
+        "ano_de_mandato": "1912-1914",
+        "vice-presidente": "Não informado"
+    },
+    "9": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "9",
+        "nome": "Terauchi Masatake",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Masatake_Terauchi_2.jpg",
+        "partido": "Militar",
+        "ano_de_mandato": "1916-1918",
+        "vice-presidente": "Não informado"
+    },
+    "10": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "10",
+        "nome": "Hara Takashi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Takashi_Hara_posing.jpg",
+        "partido": "Constitucional (Seiyukai)",
+        "ano_de_mandato": "1916-1921",
+        "vice-presidente": "Não informado"
+    },
+    "11": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "11",
+        "nome": "Takahashi Korekiyo",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Korekiyo_Takahashi.jpg",
+        "partido": "Constitucional (Seiyukai)",
+        "ano_de_mandato": "1921-1922",
+        "vice-presidente": "Não informado"
+    },
+    "12": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "12",
+        "nome": "Kato Tomosaburo",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Admiral_Kato_Tomosaburo.jpg",
+        "partido": "Militar",
+        "ano_de_mandato": "1922-1923",
+        "vice-presidente": "Não informado"
+    },
+    "13": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "13",
+        "nome": "Kiyoura Keigo",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Kiyoura_Keigo.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "1924-1924",
+        "vice-presidente": "Não informado"
+    },
+    "14": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "14",
+        "nome": "Kato Takaaki",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Takaaki_Kato_suit.jpg",
+        "partido": "Constitucional (Kenseito)",
+        "ano_de_mandato": "1924-1926",
+        "vice-presidente": "Não informado"
+    },
+    "15": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "15",
+        "nome": "Wakatsuki Reijiro",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Wakatsuki_Reijiro.jpg",
+        "partido": "Constitucional (Kenseito)",
+        "ano_de_mandato": "1926-1927",
+        "vice-presidente": "Não informado"
+    },
+    "16": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "16",
+        "nome": "Tanaka Giichi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Tanaka_Giichi.jpg",
+        "partido": "Constitucional (Seiyukai)",
+        "ano_de_mandato": "1927-1929",
+        "vice-presidente": "Não informado"
+    },
+    "17": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "17",
+        "nome": "Hamaguchi Osachi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Osachi_Hamaguchi_posing.jpg",
+        "partido": "Constitucional Democrático",
+        "ano_de_mandato": "1929-1931",
+        "vice-presidente": "Não informado"
+    },
+    "18": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "18",
+        "nome": "Inukai Tsuyoshi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Inukai_Tsuyoshi.jpg",
+        "partido": "Constitucional (Seiyukai)",
+        "ano_de_mandato": "1931-1932",
+        "vice-presidente": "Não informado"
+    },
+    "19": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "19",
+        "nome": "Saito Makoto",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Saito_Makoto_1910.jpg",
+        "partido": "Militar",
+        "ano_de_mandato": "1932-1934",
+        "vice-presidente": "Não informado"
+    },
+    "20": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "20",
+        "nome": "Keisuke Okada",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Keisuke_Okada_2.jpg",
+        "partido": "Militar",
+        "ano_de_mandato": "1934-1936",
+        "vice-presidente": "Não informado"
+    },
+    "21": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "21",
+        "nome": "Koki Hirota",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Hirota_Koki_1-1.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "1936-1937",
+        "vice-presidente": "Não informado"
+    },
+    "22": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "22",
+        "nome": "Senjuro Hayashi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:IJA_Hayashi_Senjuro.jpg",
+        "partido": "Militar",
+        "ano_de_mandato": "1937-1937",
+        "vice-presidente": "Não informado"
+    },
+    "23": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "23",
+        "nome": "Konoe Fumimaro",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Fumimaro_Konoe_suit_cropped.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "1937-1939",
+        "vice-presidente": "Não informado"
+    },
+    "24": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "24",
+        "nome": "Kiichiro Hiranuma",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Hiranuma_Kiichiro.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "1939-1939",
+        "vice-presidente": "Não informado"
+    },
+    "25": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "25",
+        "nome": "Nobuyuki Abe",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Nobuyuki_Abe_formal.jpg",
+        "partido": "Militar",
+        "ano_de_mandato": "1939-1940",
+        "vice-presidente": "Não informado"
+    },
+    "26": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "26",
+        "nome": "Mitsumasa Yonai",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yonai_Mitsumasa.jpg",
+        "partido": "Militar",
+        "ano_de_mandato": "1940-1940",
+        "vice-presidente": "Não informado"
+    },
+    "27": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "27",
+        "nome": "Tojo Hideki",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Hideki_Tojo.jpg",
+        "partido": "Taisei Yokusankai",
+        "ano_de_mandato": "1941-1944",
+        "vice-presidente": "Não informado"
+    },
+    "28": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "28",
+        "nome": "Kuniaki Koiso",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Kuniaki_Koiso.jpg",
+        "partido": "Taisei Yokusankai",
+        "ano_de_mandato": "1944-1945",
+        "vice-presidente": "Não informado"
+    },
+    "29": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "29",
+        "nome": "Kantaro Suzuki",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Suzuki_Kantaro.jpg",
+        "partido": "Taisei Yokusankai",
+        "ano_de_mandato": "1945-1945",
+        "vice-presidente": "Não informado"
+    },
+    "30": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "30",
+        "nome": "Higashikuni Naruhiko",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:HIH_Prince_Naruhiko_of_Higashikuni.jpg",
+        "partido": "Militar",
+        "ano_de_mandato": "1945-1945",
+        "vice-presidente": "Não informado"
+    },
+    "31": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "31",
+        "nome": "Kijuro Shidehara",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Prime_Minister_Kij%C5%ABr%C5%8D_Shidehara.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "1945-1946",
+        "vice-presidente": "Não informado"
+    },
+    "32": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "32",
+        "nome": "Shigeru Yoshida",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Shigeru_Yoshida_smiling2.jpg",
+        "partido": "Liberal",
+        "ano_de_mandato": "1946-1947",
+        "vice-presidente": "Não informado"
+    },
+    "33": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "33",
+        "nome": "Tetsu Katayama",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Tetsu_Katayama.jpg",
+        "partido": "Socialista",
+        "ano_de_mandato": "1947-1948",
+        "vice-presidente": "Não informado"
+    },
+    "34": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "34",
+        "nome": "Hitoshi Ashida",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Hitoshi_Ashida.jpg",
+        "partido": "Democrático",
+        "ano_de_mandato": "1948-1948",
+        "vice-presidente": "Não informado"
+    },
+    "35": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "35",
+        "nome": "Ichiro Hatoyama",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:52_HatoyamaI.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1954-1956",
+        "vice-presidente": "Não informado"
+    },
+    "36": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "36",
+        "nome": "Tanzan Ishibashi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Tanzan_Ishibashi.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1956-1957",
+        "vice-presidente": "Não informado"
+    },
+    "37": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "37",
+        "nome": "Nobusuke Kishi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Nobusuke_Kishi_Dec_14,_1956.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1957-1960",
+        "vice-presidente": "Não informado"
+    },
+    "38": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "38",
+        "nome": "Hayato Ikeda",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Hayato_Ikeda.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1960-1964",
+        "vice-presidente": "Não informado"
+    },
+    "39": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "39",
+        "nome": "Eisaku Sato",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Eisaku_Sato_1960.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1964-1972",
+        "vice-presidente": "Não informado"
+    },
+    "40": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "40",
+        "nome": "Kakuei Tanaka",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Tanaka_1973.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1972-1974",
+        "vice-presidente": "Não informado"
+    },
+    "41": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "41",
+        "nome": "Takeo Miki",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Takeo_Miki_1951_cropped.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1974-1976",
+        "vice-presidente": "Não informado"
+    },
+    "42": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "42",
+        "nome": "Takeo Fukuda",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Takeo_Fukuda_19761224.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1976-1978",
+        "vice-presidente": "Não informado"
+    },
+    "43": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "43",
+        "nome": "Masayoshi Ohira",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Masayoshi_Ohira_at_Andrews_AFB_1_Jan_1980_cropped_1.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1978-1980",
+        "vice-presidente": "Não informado"
+    },
+    "44": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "44",
+        "nome": "Zenko Suzuki",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Zenko_Suzuki_cropped.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1980-1982",
+        "vice-presidente": "Não informado"
+    },
+    "45": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "45",
+        "nome": "Yasuhiro Nakasone",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yasuhiro_Nakasone_19821127.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1982-1987",
+        "vice-presidente": "Não informado"
+    },
+    "46": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "46",
+        "nome": "Noboru Takeshita",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Noboru_Takeshita_19871106.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1987-1989",
+        "vice-presidente": "Não informado"
+    },
+    "47": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "47",
+        "nome": "Sosuke Uno",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Sosuke_Uno_19890603.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1989-1989",
+        "vice-presidente": "Não informado"
+    },
+    "48": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "48",
+        "nome": "Toshiki Kaifu",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Toshiki_Kaifu_19890810_(cropped).jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1989-1991",
+        "vice-presidente": "Não informado"
+    },
+    "49": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "49",
+        "nome": "Kiichi Miyazawa",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Kiichi_Miyazawa_cropped_1_Kiichi_Miyazawa_19911105.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1991-1993",
+        "vice-presidente": "Não informado"
+    },
+    "50": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "50",
+        "nome": "Morihiro Hosokawa",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Morihiro_Hosokawa_19930809.jpg",
+        "partido": "Novo",
+        "ano_de_mandato": "1993-1994",
+        "vice-presidente": "Não informado"
+    },
+    "51": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "51",
+        "nome": "Tsutomu Hata",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Tsutomu_Hata_19940428.jpg",
+        "partido": "Renovador",
+        "ano_de_mandato": "1994-1994",
+        "vice-presidente": "Não informado"
+    },
+    "52": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "52",
+        "nome": "Tomiichi Murayama",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Tomiichi_Murayama_19940630.jpg",
+        "partido": "Social Democrata",
+        "ano_de_mandato": "1994-1996",
+        "vice-presidente": "Não informado"
+    },
+    "53": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "53",
+        "nome": "Ryutaro Hashimoto",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ryutaro_Hashimoto_19960111.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1996-1998",
+        "vice-presidente": "Não informado"
+    },
+    "54": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "54",
+        "nome": "Keizo Obuchi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Keizo_Obuchi_19980730.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "1998-2000",
+        "vice-presidente": "Não informado"
+    },
+    "55": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "55",
+        "nome": "Yoshiro Mori",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yoshiro_Mori_20000405.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "2000-2001",
+        "vice-presidente": "Não informado"
+    },
+    "56": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "56",
+        "nome": "Junichiro Koizumi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Junichiro_Koizumi_20010426.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "2001-2006",
+        "vice-presidente": "Não informado"
+    },
+    "57": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "57",
+        "nome": "Shinzō Abe",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Abe_Shinz%C5%8D.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "2006-2007",
+        "vice-presidente": "Não informado"
+    },
+    "58": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "58",
+        "nome": "Yasuo Fukuda",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yasuo_Fukuda_200709.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "2007-2008",
+        "vice-presidente": "Não informado"
+    },
+    "59": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "59",
+        "nome": "Taro Aso",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Taro_Aso_in_World_Economic_Forum_Annual_Meeting_in_Davos_(cropped).jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "2008-2009",
+        "vice-presidente": "Não informado"
+    },
+    "60": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "60",
+        "nome": "Yukio Hatoyama",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yukio_Hatoyama.jpg",
+        "partido": "Partido Democrático do Japão",
+        "ano_de_mandato": "2009-2010",
+        "vice-presidente": "Não informado"
+    },
+    "61": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "61",
+        "nome": "Naoto Kan",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Naoto_Kan_cropped_3_Naoto_Kan_2_20110129.jpg",
+        "partido": "Partido Democrático do Japão",
+        "ano_de_mandato": "2010-2011",
+        "vice-presidente": "Não informado"
+    },
+    "62": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "62",
+        "nome": "Yoshihiko Noda",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yoshihiko_Noda-3.jpg",
+        "partido": "Partido Democrático do Japão",
+        "ano_de_mandato": "2011-2012",
+        "vice-presidente": "Não informado"
+    },
+    "63": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "63",
+        "nome": "Yoshihide Suga",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yoshihide_Suga_PM_(cropped).jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "2020-2021",
+        "vice-presidente": "Não informado"
+    },
+    "64": {
+        "titulo": "Primeiro-Ministro do Japão 🇯🇵",
+        "posicao": "64",
+        "nome": "Fumio Kishida",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Fumio_Kishida_20211005.jpg",
+        "partido": "Liberal Democrata",
+        "ano_de_mandato": "2021-exercício",
+        "vice-presidente": "Não informado"
+    }
+}

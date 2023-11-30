@@ -1,0 +1,209 @@
+{
+  "1": {
+    "titulo": "Presidente do Alemanha (República de Weimar) 🇩🇪",
+    "posicao": "1",
+    "nome": "Friedrich Ebert",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Friedrich_Ebert_face.jpg",
+    "partido": "SPD",
+    "ano_de_mandato": "11 de fevereiro de 1919 – 28 de fevereiro de 1925",
+    "vice_presidente": "Nenhum"
+  },
+  "2": {
+    "titulo": "Presidente do Alemanha (República de Weimar) 🇩🇪",
+    "posicao": "2",
+    "nome": "Paul von Hindenburg",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:President_Hindenburg.jpg",
+    "partido": "Independente",
+    "ano_de_mandato": "12 de maio de 1925 – 2 de agosto de 1934",
+    "vice_presidente": "Nenhum"
+  },
+  "3": {
+    "titulo": "Presidente do Alemanha (Alemanha Nazista) 🇩🇪",
+    "posicao": "3",
+    "nome": "Adolf Hitler",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Adolf_Hitler_cropped_restored.jpg",
+    "partido": "NSDAP",
+    "ano_de_mandato": "2 de agosto de 1934 – 30 de abril de 1945",
+    "vice_presidente": "Nenhum"
+  },
+  "4": {
+    "titulo": "Presidente do Alemanha (Alemanha Nazista) 🇩🇪",
+    "posicao": "4",
+    "nome": "Karl Dönitz",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_Bild_146-1976-127-06A,_Karl_D%C3%B6nitz_(cropped)(2).jpg",
+    "partido": "NSDAP",
+    "ano_de_mandato": "30 de abril de 1945 – 23 de maio de 1945",
+    "vice_presidente": "Nenhum"
+  },
+  "5": {
+    "titulo": "Presidente do Alemanha (ORIENTAL) 🇩🇪",
+    "posicao": "5",
+    "nome": "Wilhelm Pieck",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Fotothek_df_roe-neg_0002793_004_Portrait_Wilhelm_Piecks_im_Publikum_der_Bachfeier.jpg",
+    "partido": "RDA",
+    "ano_de_mandato": "10 de outubro de 1949 – 7 de setembro de 1960",
+    "vice_presidente": "Nenhum"
+  },
+  "6": {
+    "titulo": "Presidente do Alemanha (ORIENTAL) 🇩🇪",
+    "posicao": "6",
+    "nome": "Walter Ulbricht",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_Bild_183-J1231-1002-002_Walter_Ulbricht,_Neujahrsansprache_(cropped).jpg",
+    "partido": "SED",
+    "ano_de_mandato": "12 de setembro de 1960 – 1 de agosto de 1973",
+    "vice_presidente": "Nenhum"
+  },
+  "7": {
+    "titulo": "Presidente do Alemanha (ORIENTAL) 🇩🇪",
+    "posicao": "7",
+    "nome": "Willi Stoph",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_Bild_183-R0430-0305,_Willi_Stoph.jpg",
+    "partido": "SED",
+    "ano_de_mandato": "3 de outubro de 1973 – 29 de outubro de 1976",
+    "vice_presidente": "Nenhum"
+  },
+  "8": {
+    "titulo": "Presidente do Alemanha (ORIENTAL) 🇩🇪",
+    "posicao": "8",
+    "nome": "Erich Honecker",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_Bild_183-R1220-401,_Erich_Honecker_(cropped).jpg",
+    "partido": "SED",
+    "ano_de_mandato": "29 de outubro de 1976 – 18 de outubro de 1989",
+    "vice_presidente": "Nenhum"
+  },
+  "9": {
+    "titulo": "Presidente do Alemanha (ORIENTAL) 🇩🇪",
+    "posicao": "9",
+    "nome": "Egon Krenz",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_Bild_183-1984-0704-400,_Egon_Krenz.jpg",
+    "partido": "SED",
+    "ano_de_mandato": "18 de outubro de 1989 –  de dezembro de 1989",
+    "vice_presidente": "Nenhum"
+  },
+  "10": {
+    "titulo": "Presidente do Alemanha (ORIENTAL) 🇩🇪",
+    "posicao": "10",
+    "nome": "Manfred Gerlach",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_Bild_183-1986-0617-034,_Prof._Dr._Manfred_Gerlach.jpg",
+    "partido": "RDA",
+    "ano_de_mandato": "6 de dezembro de 1989 – 5 de abril de 1990",
+    "vice_presidente": "Nenhum"
+  },
+  "11": {
+    "titulo": "Presidente do Alemanha (OCIDENTAL) 🇩🇪",
+    "posicao": "11",
+    "nome": "Theodor Heuss",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_Bild_146-1983-098-20a,_Heuss.jpg",
+    "partido": "FDP",
+    "ano_de_mandato": "13 de setembro de 1949 – 12 de setembro de 1959",
+    "vice_presidente": "Nenhum"
+  },
+  "12": {
+    "titulo": "Presidente do Alemanha (OCIDENTAL) 🇩🇪",
+    "posicao": "12",
+    "nome": "Heinrich Lübke",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_Bild_146-1994-034-22A,_Heinrich_L%C3%BCbke.jpg",
+    "partido": "CDU",
+    "ano_de_mandato": "12 de setembro de 1959 – 30 de junho de 1969",
+    "vice_presidente": "Nenhum"
+  },
+  "13": {
+    "titulo": "Presidente do Alemanha (OCIDENTAL) 🇩🇪",
+    "posicao": "13",
+    "nome": "Gustav Heinemann",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_B_145_Bild-F028544-0006,_Gustav_Heinemann.jpg",
+    "partido": "SDP",
+    "ano_de_mandato": "1 de julho de 1969 – 30 de junho de 1974",
+    "vice_presidente": "Nenhum"
+  },
+  "14": {
+    "titulo": "Presidente do Alemanha (OCIDENTAL) 🇩🇪",
+    "posicao": "14",
+    "nome": "Walter Scheel",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_Bild_146-1989-047-20,_Walter_Scheel.jpg",
+    "partido": "FDP",
+    "ano_de_mandato": "1 de julho de 1974 – 30 de junho de 1979",
+    "vice_presidente": "Nenhum"
+  },
+  "15": {
+    "titulo": "Presidente do Alemanha (OCIDENTAL) 🇩🇪",
+    "posicao": "15",
+    "nome": "Karl Carstens",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_B_145_Bild-F054633-0020,_Ludwigshafen,_CDU-Bundesparteitag,_Carstens_(cropped).jpg",
+    "partido": "CDU",
+    "ano_de_mandato": "1 de julho de 1979 – 30 de junho de 1984",
+    "vice_presidente": "Nenhum"
+  },
+  "16": {
+    "titulo": "Presidente do Alemanha (UNIFICAÇÃO) 🇩🇪",
+    "posicao": "16",
+    "nome": "Richard von Weizsäcker",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bundesarchiv_Bild_146-1991-039-11,_Richard_v._Weizs%C3%A4cker.jpg",
+    "partido": "FDP",
+    "ano_de_mandato": "1 de julho de 1984 – 30 de junho de 1994",
+    "vice_presidente": "Nenhum"
+  },
+  "17": {
+    "titulo": "Presidente do Alemanha 🇩🇪",
+    "posicao": "17",
+    "nome": "Roman Herzog",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Roman_Herzog_2012.JPG",
+    "partido": "CDU",
+    "ano_de_mandato": "30 de junho de 1994 – 30 de junho de 1999",
+    "vice_presidente": "Nenhum"
+  },
+  "18": {
+    "titulo": "Presidente do Alemanha 🇩🇪",
+    "posicao": "18",
+    "nome": "Johannes Rau",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Johannes_rau_2004-05-16_berlin_ausschnitt.jpg",
+    "partido": "SDP",
+    "ano_de_mandato": "1 de julho de 1999 – 30 de junho de 2004",
+    "vice_presidente": "Nenhum"
+  },
+  "19": {
+    "titulo": "Presidente do Alemanha 🇩🇪",
+    "posicao": "19",
+    "nome": "Johannes Rau",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Johannes_rau_2004-05-16_berlin_ausschnitt.jpg",
+    "partido": "SDP",
+    "ano_de_mandato": "1 de julho de 1999 – 30 de junho de 2004",
+    "vice_presidente": "Nenhum"
+  },
+  "20": {
+    "titulo": "Presidente do Alemanha 🇩🇪",
+    "posicao": "20",
+    "nome": "Horst Köhler",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Koehlerhorst08032007.jpg",
+    "partido": "CDU",
+    "ano_de_mandato": "1 de julho de 2004 – 31 de maio de 2010",
+    "vice_presidente": "Nenhum"
+  },
+  "21": {
+    "titulo": "Presidente do Alemanha 🇩🇪",
+    "posicao": "21",
+    "nome": "Christian Wulff",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Christian_Wulff_crop.jpg",
+    "partido": "DCU",
+    "ano_de_mandato": "30 de junho de 2010 – 17 de fevereiro de 2012",
+    "vice_presidente": "Nenhum"
+  },
+  "22": {
+    "titulo": "Presidente do Alemanha 🇩🇪",
+    "posicao": "22",
+    "nome": "Joachim Gauck",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Joachim_Gauck_(2014).jpg",
+    "partido": "Independente",
+    "ano_de_mandato": "18 de março de 2012 – 18 de março de 2017",
+    "vice_presidente": "Nenhum"
+  },
+  "23": {
+    "titulo": "Presidente do Alemanha 🇩🇪",
+    "posicao": "23",
+    "nome": "Frank-Walter Steinmeier",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Sergio_Mattarella_and_German_President_Steinmeier_at_the_16th_Arraiolos_meeting_(4)_(cropped).jpg",
+    "partido": "SDP",
+    "ano_de_mandato": "18 de março de 2017 – Incumbente",
+    "vice_presidente": "Nenhum"
+  }
+}

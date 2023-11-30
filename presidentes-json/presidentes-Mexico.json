@@ -1,0 +1,191 @@
+{
+    "1": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 1,
+        "nome": "Venustiano Carranza",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Venustiano_Carranza_de_la_Garza,_portrait.jpg",
+        "partido": "Partido Liberal Constitucionalista",
+        "ano_de_mandato": "1915 - 1920",
+        "vice_presidente": "Nenhum"
+    },
+    "2": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 2,
+        "nome": "Adolfo de la Huerta",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Adolfo_de_la_Huerta.jpg",
+        "partido": "Partido Liberal Constitucionalista",
+        "ano_de_mandato": "1920 - 1920",
+        "vice_presidente": "Nenhum"
+    },
+    "3": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 3,
+        "nome": "Álvaro Obregón",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Obreg%C3%B3n_Salido,_%C3%81lvaro.jpg",
+        "partido": "Partido Laborista Mexicano - PLM",
+        "ano_de_mandato": "1920 - 1924",
+        "vice_presidente": "Nenhum"
+    },
+    "4": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 4,
+        "nome": "Plutarco Elías Calles",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Plutarco_Elias_Calles.jpg",
+        "partido": "Partido Nacional Revolucionario",
+        "ano_de_mandato": "1924 - 1928",
+        "vice_presidente": "Nenhum"
+    },
+    "5": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 5,
+        "nome": "Emilio Portes Gil",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Emilio_Portes_Gil.PNG",
+        "partido": "Partido Nacional Revolucionario - PNR",
+        "ano_de_mandato": "1928 - 1930",
+        "vice_presidente": "Nenhum"
+    },
+    "6": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 6,
+        "nome": "Pascual Ortiz Rubio",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Pascual_Ortiz_Rubio.jpg",
+        "partido": "Partido Nacional Revolucionario - PNR",
+        "ano_de_mandato": "1930 - 1932",
+        "vice_presidente": "Nenhum"
+    },
+    "7": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 7,
+        "nome": "Abelardo L. Rodríguez",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Abelardo.rodriguez.jpg",
+        "partido": "Partido Nacional Revolucionario",
+        "ano_de_mandato": "1932 - 1934",
+        "vice_presidente": "Nenhum"
+    },
+    "8": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 8,
+        "nome": "Manuel Ávila Camacho",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Manuel_%C3%81vila_Camacho.JPG",
+        "partido": "Partido de la Revolución Mexicana - PRM",
+        "ano_de_mandato": "1940 - 1946",
+        "vice_presidente": "Nenhum"
+    },
+    "9": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 9,
+        "nome": "Miguel Alemán Valdés",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Miguel_Alem%C3%A1n_Vald%C3%A9s.jpg",
+        "partido": "Partido Revolucionario Institucional - PRI",
+        "ano_de_mandato": "1946 - 1952",
+        "vice_presidente": "Nenhum"
+    },
+    "10": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 10,
+        "nome": "Adolfo Ruiz Cortines",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Adolfo_Ruiz_Cortines_-_2.png",
+        "partido": "Partido Revolucionário Institucional",
+        "ano_de_mandato": "1952 - 1958",
+        "vice_presidente": "Nenhum"
+    },
+    "11": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 11,
+        "nome": "Adolfo López Mateos",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Lopez_Mateos.jpg",
+        "partido": "Partido Revolucionario Institucional - PRI",
+        "ano_de_mandato": "1958 - 1964",
+        "vice_presidente": "Nenhum"
+    },
+    "12": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 12,
+        "nome": "Gustavo Díaz Ordaz",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Gustavo_Diaz_Ordaz.JPG",
+        "partido": "Partido Revolucionario Institucional - PRI",
+        "ano_de_mandato": "1964 - 1970",
+        "vice_presidente": "Nenhum"
+    },
+    "13": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 13,
+        "nome": "Luis Echeverría",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Luis_Echeverr%C3%ADa_%C3%81lvarez_official_portrait.jpg",
+        "partido": "Partido Revolucionário Institucional",
+        "ano_de_mandato": "1970 - 1976",
+        "vice_presidente": "Nenhum"
+    },
+    "14": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 14,
+        "nome": "José López Portillo",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Jose_Lopez_Portillo.jpg",
+        "partido": "Partido Revolucionário Institucional",
+        "ano_de_mandato": "1976 - 1982",
+        "vice_presidente": "Nenhum"
+    },
+    "15": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 15,
+        "nome": "Miguel de la Madrid",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:De_la_madrid1.jpg",
+        "partido": "Partido Revolucionário Institucional",
+        "ano_de_mandato": "1982 - 1988",
+        "vice_presidente": "Nenhum"
+    },
+    "16": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 16,
+        "nome": "Carlos Salinas de Gortari",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Carlos_Salinas.jpg",
+        "partido": "Partido Revolucionário Institucional",
+        "ano_de_mandato": "1988 - 1994",
+        "vice_presidente": "Nenhum"
+    },
+    "17": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 17,
+        "nome": "Ernesto Z. P. de León",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ernesto_Zedillo_Ponce_de_Leon_-_World_Economic_Forum_Annual_Meeting_Davos_2009.jpg",
+        "partido": "Partido Revolucionário Institucional",
+        "ano_de_mandato": "1994 - 2000",
+        "vice_presidente": "Nenhum"
+    },
+    "18": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 18,
+        "nome": "Vicente Fox",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Vicente_Fox_WEF_2003_cropped.jpg",
+        "partido": "Partido Acción Nacional - PAN",
+        "ano_de_mandato": "2000 - 2006",
+        "vice_presidente": "Nenhum"
+    },
+    "19": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 19,
+        "nome": "Felipe Calderón",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Felipe_Calderon_20090130.jpg",
+        "partido": "Partido de Ação Nacional",
+        "ano_de_mandato": "2006 - 2012",
+        "vice_presidente": "Nenhum"
+    },
+    "20": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 20,
+        "nome": "Enrique Peña Nieto",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Enrique_Pe%C3%B1a_Nieto_Junta.jpg",
+        "partido": "Partido Revolucionário Institucional",
+        "ano_de_mandato": "2012 - 2018",
+        "vice_presidente": "Nenhum"
+    },
+    "21": {
+        "titulo": "Presidente do México 🇲🇽",
+        "posicao": 21,
+        "nome": "Andrés Manuel López Obrador",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:LEN%C3%8DN_MORENO_SE_RE%C3%9ANE_CON_EL_L%C3%8DDER_MEXICANO_L%C3%93PEZ_OBRADOR_(36186836092)_(cropped).jpg",
+        "partido": "Partido Revolucionário Institucional",
+        "ano_de_mandato": "2018 - presente",
+        "vice_presidente": "Nenhum"
+    }
+}

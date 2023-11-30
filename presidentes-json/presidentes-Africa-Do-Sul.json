@@ -1,0 +1,110 @@
+{
+  "1": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "1",
+    "nome": "Charles Robert Swart",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:CR_Swart_1960.jpg",
+    "partido": "Nacional",
+    "ano_de_mandato": "31 de maio de 1961 – 1 de junho de 1967",
+    "vice_presidente": "Verwoerd e Vorster"
+  },
+  "2": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "2",
+    "nome": "Jim Fouché",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:Jacobus_Johannes_Fouch%C3%A9_1968.jpg",
+    "partido": "Nacional",
+    "ano_de_mandato": "10 de abril de 1968 até 9 de abril de 1975",
+    "vice_presidente": "Vorster"
+  },
+  "3": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "3",
+    "nome": "Nico Diederichs",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:Nicolaas_Diederichs.jpg",
+    "partido": "Nacional",
+    "ano_de_mandato": "19 de abril de 1975 – 21 de agosto de 1978",
+    "vice_presidente": "Vorster"
+  },
+  "4": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "4",
+    "nome": "John Vorster",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Mitre_2_(cropped).jpg",
+    "partido": "Nacional",
+    "ano_de_mandato": "10 de outubro de 1978 – 4 de junho de 1979",
+    "vice_presidente": "Botha"
+  },
+  "5": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "5",
+    "nome": "Marais Viljoen",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:Marais_Viljoen.jpg",
+    "partido": "Nacional",
+    "ano_de_mandato": "19 de junho de 1978 – 3 de setembro de 1983",
+    "vice_presidente": "Botha"
+  },
+  "6": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "6",
+    "nome": "Pieter Willem Botha",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:PW_Botha_1962.jpg",
+    "partido": "Nacional",
+    "ano_de_mandato": "3 de setembro de 1984 – 14 de setembro de 1984",
+    "vice_presidente": "Nenhum"
+  },
+  "7": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "7",
+    "nome": "Frederik Willem de Klerk",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:Frederik_Willem_de_Klerk,_1990.jpg",
+    "partido": "Nacional",
+    "ano_de_mandato": "15 de março de 1989 – 10 de maio de 1994",
+    "vice_presidente": "Nenhum"
+  },
+  "8": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "8",
+    "nome": "Nelson Mandela",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:Nelson_Mandela_1994_(2).jpg",
+    "partido": "Congresso Nacional Africano",
+    "ano_de_mandato": "10 de maio de 1994 – 16 de junho de 1999",
+    "vice_presidente": "Frederik Willem de Klerk (1994-1996) e Thabo Mbeki (1996-1999)"
+  },
+  "9": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "9",
+    "nome": "Thabo Mbeki",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:SthAfrica.ThaboMbeki.01.jpg",
+    "partido": "Congresso Nacional Africano",
+    "ano_de_mandato": "25 de setembro de 1999 – 24 de setembro de 2008",
+    "vice_presidente": "Jacob Zuma (2001-2005) e Phumzile Mlambo-Ngcuka (2005-2008)"
+  },
+  "10": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "10",
+    "nome": "Kgalema Motlanthe",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:Kgalema_Motlanthe,_2009_World_Economic_Forum_on_Africa-1_(cropped).jpg",
+    "partido": "Congresso Nacional Africano",
+    "ano_de_mandato": "25 de setembro de 2008 – 9 de maio de 2009",
+    "vice_presidente": "Baleka Mbete"
+  },
+  "11": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "11",
+    "nome": "Jacob Zuma",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:Jacob_G._Zuma_-_World_Economic_Forum_Annual_Meeting_Davos_2010.jpg",
+    "partido": "Congresso Nacional Africano",
+    "ano_de_mandato": "9 de maio de 2009 – 14 de fevereiro de 2018",
+    "vice_presidente": "Kgalema Motlanthe (2009-2014) e Cyril Ramaphosa (2014-2018)"
+  },
+  "12": {
+    "titulo": "Primeiro-Ministro da África do Sul 🇿🇦",
+    "posicao": "12",
+    "nome": "Cyril Ramaphosa",
+    "foto": "https://pt.m.wikipedia.org/wiki/Ficheiro:Mr._Houlin_Zhao,_ITU_Secretary-General_with_H._E._Mr._Cyril_Ramaphosa,_President,_South_Africa_(cropped).jpg",
+    "partido": "Congresso Nacional Africano",
+    "ano_de_mandato": "14 de fevereiro de 2018 – presente",
+    "vice_presidente": "David Mabuza"
+  }
+}

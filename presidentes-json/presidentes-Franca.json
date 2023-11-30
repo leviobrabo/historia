@@ -1,0 +1,245 @@
+{
+  "1": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "1",
+    "nome": "Luís Napoleão Bonaparte",
+    "foto": "https://pt.wikipedia.org/wiki/Napole%C3%A3o_III_de_Fran%C3%A7a",
+    "partido": "Partido da Ordem",
+    "mandato": "20 de dezembro de 1848 - 2 de dezembro de 1852",
+    "vice-presidente": "Não informado"
+  },
+  "2": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "2",
+    "nome": "Adolphe Thiers",
+    "foto": "https://pt.wikipedia.org/wiki/Adolphe_Thiers",
+    "partido": "Independente",
+    "mandato": "31 de agosto de 1871 - 24 de maio de 1873",
+    "vice-presidente": "Não informado"
+  },
+  "3": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "3",
+    "nome": "Patrice de Mac-Mahon",
+    "foto": "https://pt.wikipedia.org/wiki/Patrice_de_Mac-Mahon",
+    "partido": "Legitimista",
+    "mandato": "24 de maio de 1873 - 30 de janeiro de 1879",
+    "vice-presidente": "Não informado"
+  },
+  "4": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "4",
+    "nome": "Jules Grévy",
+    "foto": "https://pt.wikipedia.org/wiki/Jules_Gr%C3%A9vy",
+    "partido": "Republicanos oportunistas",
+    "mandato": "30 de janeiro de 1879 - 30 de janeiro de 1886",
+    "vice-presidente": "Não informado"
+  },
+  "5": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "5",
+    "nome": "Sadi Carnot",
+    "foto": "https://pt.wikipedia.org/wiki/Marie_Fran%C3%A7ois_Sadi_Carnot",
+    "partido": "",
+    "mandato": "3 de dezembro de 1887 - 25 de junho de 1894",
+    "vice-presidente": "Não informado"
+  },
+  "6": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "6",
+    "nome": "Jean Casimir-Perier",
+    "foto": "https://pt.wikipedia.org/wiki/Jean_Casimir-Perier",
+    "partido": "",
+    "mandato": "27 de junho de 1894 - 16 de janeiro de 1895",
+    "vice-presidente": "Não informado"
+  },
+  "7": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "7",
+    "nome": "Félix Faure",
+    "foto": "https://pt.wikipedia.org/wiki/F%C3%A9lix_Faure",
+    "partido": "",
+    "mandato": "17 de janeiro de 1895 - 16 de fevereiro de 1899",
+    "vice-presidente": "Não informado"
+  },
+  "8": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "8",
+    "nome": "Émile Loubet",
+    "foto": "https://pt.wikipedia.org/wiki/%C3%89mile_Loubet",
+    "partido": "Aliança Republicana Democrática (ARD)",
+    "mandato": "18 de fevereiro de 1899 - 18 de fevereiro de 1906",
+    "vice-presidente": "Não informado"
+  },
+  "9": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "9",
+    "nome": "Armand Fallières",
+    "foto": "https://pt.wikipedia.org/wiki/Armand_Falli%C3%A8res",
+    "partido": "Aliança Republicana Democrática (ARD)",
+    "mandato": "18 de fevereiro de 1906 - 18 de fevereiro de 1913",
+    "vice-presidente": "Não informado"
+  },
+  "10": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "10",
+    "nome": "Raymond Poincaré",
+    "foto": "https://pt.wikipedia.org/wiki/Raymond_Poincar%C3%A9",
+    "partido": "Partido Republicano Democrático (PRD)",
+    "mandato": "18 de fevereiro de 1913 - 18 de fevereiro de 1920",
+    "vice-presidente": "Não informado"
+  },
+  "11": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "11",
+    "nome": "Paul Deschanel",
+    "foto": "https://pt.wikipedia.org/wiki/Paul_Deschanel",
+    "partido": "Aliança Republicana Democrática (ARD)",
+    "mandato": "18 de fevereiro de 1920 - 21 de setembro de 1920",
+    "vice-presidente": "Não informado"
+  },
+  "12": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "12",
+    "nome": "Alexandre Millerand",
+    "foto": "https://pt.wikipedia.org/wiki/Alexandre_Millerand",
+    "partido": "Independente",
+    "mandato": "23 de setembro de 1920 - 13 de junho de 1924",
+    "vice-presidente": "Não informado"
+  },
+  "13": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "13",
+    "nome": "Gaston Doumergue",
+    "foto": "https://pt.wikipedia.org/wiki/Gaston_Doumergue",
+    "partido": "Partido Radical",
+    "mandato": "13 de junho de 1924 - 13 de junho de 1931",
+    "vice-presidente": "Não informado"
+  },
+  "14": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "14",
+    "nome": "Paul Doumer",
+    "foto": "https://pt.wikipedia.org/wiki/Paul_Doumer",
+    "partido": "Independente",
+    "mandato": "13 de junho de 1931 - 7 de maio de 1932",
+    "vice-presidente": "Não informado"
+  },
+  "15": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "15",
+    "nome": "Albert Lebrun",
+    "foto": "https://pt.wikipedia.org/wiki/Albert_Lebrun",
+    "partido": "Aliança Democrática (AD)",
+    "mandato": "10 de maio de 1932 - 10 de maio de 1939",
+    "vice-presidente": "Não informado"
+  },
+  "16": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "16",
+    "nome": "Vincent Auriol",
+    "foto": "https://pt.wikipedia.org/wiki/Vincent_Auriol",
+    "partido": "Secção Francesa da Internacional Operária (SFIO)",
+    "mandato": "16 de janeiro de 1947 - 16 de janeiro de 1954",
+    "vice-presidente": "Não informado"
+  },
+  "17": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "17",
+    "nome": "René Coty",
+    "foto": "https://pt.wikipedia.org/wiki/Ren%C3%A9_Coty",
+    "partido": "Centro Nacional de Independentes e Camponeses",
+    "mandato": "16 de janeiro de 1954 - 8 de janeiro de 1959",
+    "vice-presidente": "Não informado"
+  },
+  "18": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "18",
+    "nome": "Charles de Gaulle",
+    "foto": "https://pt.wikipedia.org/wiki/Charles_de_Gaulle",
+    "partido": "Independente",
+    "mandato": "8 de janeiro de 1959 - 8 de janeiro de 1966",
+    "vice-presidente": "Não informado"
+  },
+  "19": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "–",
+    "nome": "Alain Poher",
+    "foto": "https://pt.wikipedia.org/wiki/Alain_Poher",
+    "partido": "Centro Democrático (CD)",
+    "mandato": "28 de abril de 1969 - 20 de junho de 1969",
+    "vice-presidente": "Não informado"
+  },
+  "20": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "19",
+    "nome": "Georges Pompidou",
+    "foto": "https://pt.wikipedia.org/wiki/Georges_Pompidou",
+    "partido": "União dos Democratas pela República (UDR)",
+    "mandato": "20 de junho de 1969 - 2 de abril de 1974",
+    "vice-presidente": "Não informado"
+  },
+  "21": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "–",
+    "nome": "Alain Poher",
+    "foto": "https://pt.wikipedia.org/wiki/Alain_Poher",
+    "partido": "Centro Democrático (CD)",
+    "mandato": "2 de abril de 1974 - 27 de maio de 1974",
+    "vice-presidente": "Não informado"
+  },
+  "22": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "20",
+    "nome": "Valéry Giscard d'Estaing",
+    "foto": "https://pt.wikipedia.org/wiki/Val%C3%A9ry_Giscard_d%27Estaing",
+    "partido": "União pela Democracia Francesa (UDF)",
+    "mandato": "27 de maio de 1974 - 21 de maio de 1981",
+    "vice-presidente": "Não informado"
+  },
+  "23": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "21",
+    "nome": "François Mitterrand",
+    "foto": "https://pt.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand",
+    "partido": "Partido Socialista (PS)",
+    "mandato": "21 de maio de 1981 - 21 de maio de 1988",
+    "vice-presidente": "Não informado"
+  },
+  "24": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "22",
+    "nome": "Jacques Chirac",
+    "foto": "https://pt.wikipedia.org/wiki/Jacques_Chirac",
+    "partido": "Reagrupamento para a República (RPR)",
+    "mandato": "17 de maio de 1995 - 17 de maio de 2002",
+    "vice-presidente": "Não informado"
+  },
+  "25": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "23",
+    "nome": "Nicolas Sarkozy",
+    "foto": "https://pt.wikipedia.org/wiki/Nicolas_Sarkozy",
+    "partido": "",
+    "mandato": "16 de maio de 2007 - 15 de maio de 2012",
+    "vice-presidente": "Não informado"
+  },
+  "26": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "24",
+    "nome": "François Hollande",
+    "foto": "https://pt.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+    "partido": "Partido Socialista (PS)",
+    "mandato": "15 de maio de 2012 - 14 de maio de 2017",
+    "vice-presidente": "Não informado"
+  },
+  "27": {
+    "titulo": "Presidente da França 🇫🇷",
+    "posicao": "25",
+    "nome": "Emmanuel Macron",
+    "foto": "https://pt.wikipedia.org/wiki/Emmanuel_Macron",
+    "partido": "Renascimento (RE)",
+    "mandato": "14 de maio de 2017 - 6 de maio de 2022",
+    "vice-presidente": "Não informado"
+  }
+}

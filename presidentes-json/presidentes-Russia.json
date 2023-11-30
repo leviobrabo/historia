@@ -1,0 +1,38 @@
+{
+  "1": {
+    "titulo": "Presidente do Rússia 🇷🇺",
+    "posicao": "1",
+    "nome": "Boris Iéltsin",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD.jpg",
+    "partido": "Partido Democrático",
+    "ano_de_mandato": "25 de dezembro de 1991 – 9 de agosto de 1996",
+    "vice_presidente": "Nenhum"
+  },
+  "2": {
+    "titulo": "Presidente do Rússia 🇷🇺",
+    "posicao": "2",
+    "nome": "Vladimir Putin",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Vladimir_Vladimirovich_Putin.jpg",
+    "partido": "Nenhum",
+    "ano_de_mandato": "31 de dezembro de 1999 – 7 de maio de 2000",
+    "vice_presidente": "Nenhum"
+  },
+  "3": {
+    "titulo": "Presidente do Rússia 🇷🇺",
+    "posicao": "3",
+    "nome": "Dmitri Medvedev",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Dmitry_Anatolyevich_Medvedev.jpg",
+    "partido": "Rússia Unida",
+    "ano_de_mandato": "7 de maio de 2008 – 7 de maio de 2012",
+    "vice_presidente": "Nenhum"
+  },
+  "4": {
+    "titulo": "Presidente do Rússia 🇷🇺",
+    "posicao": "4",
+    "nome": "Vladimir Putin",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Vladimir_Putin_-_2012.jpg",
+    "partido": "Rússia Unida",
+    "ano_de_mandato": "7 de maio de 2012 – Presente",
+    "vice_presidente": "Nenhum"
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "1": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "1",
+    "nome": "Deodoro da Fonseca",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Deodoro_da_Fonseca_(1889).jpg",
+    "partido": "nenhum",
+    "ano_de_mandato": "15 de novembro de 1889 – 23 de novembro de 1891 (2 anos e 8 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "2": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "2",
+    "nome": "Floriano Peixoto",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Floriano_Peixoto_(1891).jpg",
+    "partido": "nenhum",
+    "ano_de_mandato": "23 de novembro de 1891 – 15 de novembro de 1894 (2 anos e 357 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "3": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "3",
+    "nome": "Prudente de Morais",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Prudentedemorais.jpg",
+    "partido": "PR Federal",
+    "ano_de_mandato": "15 de novembro de 1894 – 15 de novembro de 1898 (4 anos)",
+    "vice_presidente": "Manuel Vitorino"
+  },
+  "4": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "4",
+    "nome": "Campos Sales",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Campos_Sales.jpg",
+    "partido": "PRP",
+    "ano_de_mandato": "15 de novembro de 1898 – 15 de novembro de 1902 (4 anos)",
+    "vice_presidente": "Rosa e Silva"
+  },
+  "5": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "5",
+    "nome": "Rodrigues Alves",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Rodrigues_Alves_3.jpg",
+    "partido": "PRP",
+    "ano_de_mandato": "15 de novembro de 1902 – 15 de novembro de 1906 (4 anos)",
+    "vice_presidente": "Afonso Pena"
+  },
+  "6": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "6",
+    "nome": "Afonso Pena",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Afonso_Pena.jpg",
+    "partido": "PRM",
+    "ano_de_mandato": "15 de novembro de 1906 – 14 de junho de 1909 (2 anos e 211 dias)",
+    "vice_presidente": "Nilo Peçanha"
+  },
+  "7": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "7",
+    "nome": "Nilo Peçanha",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Nilo_Pe%C3%A7anha_02.jpg",
+    "partido": "PRF",
+    "ano_de_mandato": "14 de junho de 1909 – 15 de novembro de 1910 (1 ano e 154 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "8": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "8",
+    "nome": "Hermes da Fonseca",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Hermes_da_Fonseca_(1910).jpg",
+    "partido": "PRC",
+    "ano_de_mandato": "15 de novembro de 1910 – 15 de novembro de 1914 (4 anos)",
+    "vice_presidente": "Venceslau Brás"
+  },
+  "9": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "9",
+    "nome": "Venceslau Brás",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Venceslau_Br%C3%A1s.jpg",
+    "partido": "PRM",
+    "ano_de_mandato": "15 de novembro de 1914 – 15 de novembro de 1918 (4 anos)",
+    "vice_presidente": "Urbano Santos"
+  },
+  "10": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "10",
+    "nome": "Delfim Moreira",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Delfim_Moreira_(1918).jpg",
+    "partido": "PRM",
+    "ano_de_mandato": "15 de novembro de 1918 – 28 de julho de 1919 (255 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "11": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "11",
+    "nome": "Epitácio Pessoa",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Epitacio_Pessoa_(1919).jpg",
+    "partido": "PRM",
+    "ano_de_mandato": "28 de julho de 1919 – 15 de novembro de 1922 (3 anos e 110 dias)",
+    "vice_presidente": "Delfim Moreira"
+  },
+  "12": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "12",
+    "nome": "Artur Bernardes",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Artur_Bernardes_(1922).jpg",
+    "partido": "PRM",
+    "ano_de_mandato": "15 de novembro de 1922 – 15 de novembro de 1926 (4 anos)",
+    "vice_presidente": "Estácio Coimbra"
+  },
+  "13": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "13",
+    "nome": "Washington Luís",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Washington_Lu%C3%ADs_(foto).jpg",
+    "partido": "PRP",
+    "ano_de_mandato": "15 de novembro de 1926 – 24 de outubro de 1930 (3 anos e 343 dias)",
+    "vice_presidente": "Fernando de Melo Viana"
+  },
+  "14": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "14",
+    "nome": "Getúlio Vargas",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Getulio_Vargas_(1930).jpg",
+    "partido": "nenhum",
+    "ano_de_mandato": "3 de novembro de 1930 – 10 de novembro de 1937 (7 anos e 7 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "15": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "15",
+    "nome": "José Linhares",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Jos%C3%A9_Linhares_TSE.jpg",
+    "partido": "nenhum",
+    "ano_de_mandato": "29 de outubro de 1945 – 31 de janeiro de 1946 (94 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "16": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "16",
+    "nome": "Eurico Gaspar Dutra",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:GASPARDUTRA.jpg",
+    "partido": "PSD",
+    "ano_de_mandato": "31 de janeiro de 1946 – 31 de janeiro de 1951 (5 anos)",
+    "vice_presidente": "Nereu Ramos"
+  },
+  "17": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "17",
+    "nome": "Getúlio Vargas",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:17_-_Get%C3%BAlio_Dorneles_Vargas_1951_derivative.jpg",
+    "partido": "PTB",
+    "ano_de_mandato": "31 de janeiro de 1951 – 24 de agosto de 1954 (3 anos e 205 dias)",
+    "vice_presidente": "Café Filho"
+  },
+  "18": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "18",
+    "nome": "Café Filho",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Caf%C3%A9_Filho.jpg",
+    "partido": "PSP",
+    "ano_de_mandato": "24 de agosto de 1954 – 8 de novembro de 1955 (1 ano e 76 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "19": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "19",
+    "nome": "Carlos Luz",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:CarlosLuz.jpg",
+    "partido": "PSD",
+    "ano_de_mandato": "8 de novembro de 1955 – 11 de novembro de 1955 (3 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "20": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "20",
+    "nome": "Nereu Ramos",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Presidente_Nereu_Ramos.jpg",
+    "partido": "PSD",
+    "ano_de_mandato": "11 de novembro de 1955 – 31 de janeiro de 1956 (81 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "21": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "21",
+    "nome": "Juscelino Kubitschek",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Juscelino.jpg",
+    "partido": "PSD",
+    "ano_de_mandato": "31 de janeiro de 1956 – 31 de janeiro de 1961 (5 anos)",
+    "vice_presidente": "João Goulart"
+  },
+  "22": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "22",
+    "nome": "Jânio Quadros",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Janio_Quadros.png",
+    "partido": "PTN",
+    "ano_de_mandato": "31 de janeiro de 1961 – 25 de agosto de 1961 (206 dias)",
+    "vice_presidente": "João Goulart"
+  },
+  "23": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "23",
+    "nome": "Ranieri Mazzilli",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ranieri_Mazzilli_(1961).jpg",
+    "partido": "PSD",
+    "ano_de_mandato": "25 de agosto de 1961 – 7 de setembro de 1961 (13 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "24": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "24",
+    "nome": "João Goulart",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Jango.jpg",
+    "partido": "PTB",
+    "ano_de_mandato": "7 de setembro de 1961 – 2 de abril de 1964 (2 anos e 208 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "25": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "25",
+    "nome": "Ranieri Mazzilli",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ranieri_Mazzilli_(1961).jpg",
+    "partido": "PSD",
+    "ano_de_mandato": "2 de abril de 1964 – 15 de abril de 1964 (13 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "26": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "26",
+    "nome": "Humberto Castelo Branco",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Castelobranco.jpg",
+    "partido": "ARENA",
+    "ano_de_mandato": "15 de abril de 1964 – 15 de março de 1967 (2 anos e 334 dias)",
+    "vice_presidente": "José Maria Alkmin"
+  },
+  "27": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "27",
+    "nome": "Artur da Costa e Silva",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Costa_e_Silva.jpg",
+    "partido": "ARENA",
+    "ano_de_mandato": "15 de março de 1967 – 31 de agosto de 1969 (2 anos e 169 dias)",
+    "vice_presidente": "Pedro Aleixo"
+  },
+  "28": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "28",
+    "nome": "Emílio Garrastazu Médici",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Garrastazu_m%C3%A9dici.jpg",
+    "partido": "ARENA",
+    "ano_de_mandato": "30 de outubro de 1969 – 15 de março de 1974 (4 anos e 136 dias)",
+    "vice_presidente": "Augusto Rademaker"
+  },
+  "29": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "29",
+    "nome": "Ernesto Geisel",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Foto_oficial_do_presidente_Ernesto_Geisel.png",
+    "partido": "ARENA",
+    "ano_de_mandato": "15 de março de 1974 – 15 de março de 1979 (5 anos)",
+    "vice_presidente": "Adalberto Pereira dos Santos"
+  },
+  "30": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "30",
+    "nome": "João Figueiredo",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Figueiredo_(colour).jpg",
+    "partido": "ARENA",
+    "ano_de_mandato": "15 de março de 1979 – 15 de março de 1985 (6 anos)",
+    "vice_presidente": "Aureliano Chaves"
+  },
+  "31": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "31",
+    "nome": "José Sarney",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Foto_Oficial_Sarney_EBC.jpg",
+    "partido": "PMDB",
+    "ano_de_mandato": "15 de março de 1985 – 15 de março de 1990 (5 anos)",
+    "vice_presidente": "nenhum"
+  },
+  "32": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "32",
+    "nome": "Fernando Collor",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Fernandocolloroficial_(2).jpg",
+    "partido": "PRN",
+    "ano_de_mandato": "15 de março de 1990 – 29 de dezembro de 1992 (2 anos e 289 dias)",
+    "vice_presidente": "Itamar Franco"
+  },
+  "33": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "33",
+    "nome": "Itamar Franco",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Itamar_Franco_Faixa_Presidencial.jpg",
+    "partido": "PMDB",
+    "ano_de_mandato": "29 de dezembro de 1992 – 1º de janeiro de 1995 (2 anos e 3 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "34": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "34",
+    "nome": "Fernando Henrique Cardoso",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Fernando_Henrique_Cardoso_(1999).jpg",
+    "partido": "PSDB",
+    "ano_de_mandato": "1º de janeiro de 1995 – 1º de janeiro de 2003 (8 anos)",
+    "vice_presidente": "Marco Maciel"
+  },
+  "35": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "35",
+    "nome": "Luiz Inácio Lula da Silva",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Lula_-_foto_oficial_-_05_jan_2007_(cropped_3).jpg",
+    "partido": "PT",
+    "ano_de_mandato": "1º de janeiro de 2003 – 1º de janeiro de 2011 (8 anos)",
+    "vice_presidente": "José Alencar"
+  },
+  "36": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "36",
+    "nome": "Dilma Rousseff",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg",
+    "partido": "PT",
+    "ano_de_mandato": "1° de janeiro de 2011 – 31 de agosto de 2016 (5 anos e 243 dias)",
+    "vice_presidente": "Michel Temer"
+  },
+  "37": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "37",
+    "nome": "Michel Temer",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Michel_Temer_(foto_oficial)_(cropped_2).jpg",
+    "partido": "PMDB",
+    "ano_de_mandato": "31 de agosto de 2016 – 1º de janeiro de 2019 (2 anos e 123 dias)",
+    "vice_presidente": "nenhum"
+  },
+  "38": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "38",
+    "nome": "Jair Bolsonaro",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:2022-09-07_Desfile_C%C3%ADvico-Militar_por_ocasi%C3%A3o_das_Comemora%C3%A7%C3%B5es_do_Bicenten%C3%A1rio_da_Independ%C3%AAncia_do_Brasil_-_52341366768_(cropped).jpg",
+    "partido": "PSL",
+    "ano_de_mandato": "1º de janeiro de 2019 – 1º de janeiro de 2023 (4 anos)",
+    "vice_presidente": "Hamilton Mourão"
+  },
+  "39": {
+    "titulo": "Presidente do Brasil 🇧🇷",
+    "posicao": "39",
+    "nome": "Luiz Inácio Lula da Silva",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(2023%E2%80%932027).jpg",
+    "partido": "PT",
+    "ano_de_mandato": "1º de janeiro de 2023 – atualidade (315 dias)",
+    "vice_presidente": "Geraldo Alckmin"
+  }
+}

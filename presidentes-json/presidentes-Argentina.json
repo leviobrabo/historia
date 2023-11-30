@@ -1,0 +1,461 @@
+{
+    "1": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "1",
+        "nome": "Bernardino Rivadavia",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bernardino_Rivadavia_2.jpg",
+        "partido": "Partido Unitário",
+        "ano_de_mandato": "8 de fevereiro de 1826 ― 27 de junho de 1827 (1 ano e 139 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "2": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "2",
+        "nome": "Santiago Derqui",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Santiago_Derqui,_pr%C3%A9sident_de_l%27Argentine.jpg",
+        "partido": "Partido Federal",
+        "ano_de_mandato": "5 de março de 1860 ― 5 de novembro de 1861 (1 ano e 245 dias)",
+        "vice_presidente": "Juan Esteban Pedernera"
+    },
+    "3": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "3",
+        "nome": "Juan Esteban Pedernera",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:JEPedernera.jpg",
+        "partido": "Partido Federal",
+        "ano_de_mandato": "5 de novembro de 1861 ― 12 de dezembro de 1861 (37 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "4": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "4",
+        "nome": "Bartolomé Mitre",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Mitre_2_(cropped).jpg",
+        "partido": "Partido Liberal",
+        "ano_de_mandato": "12 de outubro de 1862 ― 12 de outubro de 1868 (6 anos)",
+        "vice_presidente": "Marco Paz"
+    },
+    "5": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "5",
+        "nome": "Domingo Faustino Sarmiento",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Domingo_F_Sarmiento_con_banda.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "12 de outubro de 1868 ― 12 de outubro de 1874 (6 anos)",
+        "vice_presidente": "Adolfo Alsina"
+    },
+    "6": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "6",
+        "nome": "Nicolás Avellaneda",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Nicolas_Avellaneda_con_banda_presidencial.jpg",
+        "partido": "PAN",
+        "ano_de_mandato": "12 de outubro de 1874 ― 12 de outubro de 1880 (6 anos)",
+        "vice_presidente": "Mariano Acosta"
+    },
+    "7": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "7",
+        "nome": "Julio Argentino Roca",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Roca_retrato_c1880.jpg",
+        "partido": "PAN",
+        "ano_de_mandato": "12 de outubro de 1880 ― 12 de outubro de 1886 (6 anos)",
+        "vice_presidente": "Francisco Bernabé Madero"
+    },
+    "8": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "8",
+        "nome": "Miguel Juárez Celman",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Juarez_celman_president.jpg",
+        "partido": "PAN",
+        "ano_de_mandato": "12 de outubro de 1886 ― 6 de agosto de 1890 (3 anos e 298 dias)",
+        "vice_presidente": "Carlos Pellegrini"
+    },
+    "9": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "9",
+        "nome": "Carlos Pellegrini",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Retrato_de_Carlos_Pellegrini.jpg",
+        "partido": "PAN",
+        "ano_de_mandato": "6 de agosto de 1890 ― 12 de outubro de 1892 (2 anos e 67 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "10": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "10",
+        "nome": "Luis Sáenz Peña",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:LSaenzpe%C3%B1a.jpg",
+        "partido": "PAN",
+        "ano_de_mandato": "12 de outubro de 1892 ― 23 de janeiro de 1895 (2 anos e 103 dias)",
+        "vice_presidente": "José Evaristo Uriburu"
+    },
+    "11": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "11",
+        "nome": "José Evaristo Uriburu",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:JEUriburu.jpg",
+        "partido": "PAN",
+        "ano_de_mandato": "23 de janeiro de 1895 ― 12 de outubro de 1898 (3 anos e 262 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "12": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "12",
+        "nome": "Julio Argentino Roca",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:General_Don_Julio_Argentino_Roca.jpg",
+        "partido": "PAN",
+        "ano_de_mandato": "12 de outubro de 1898 ― 12 de outubro de 1904 (6 anos)",
+        "vice_presidente": "Norbeto Quirno Costa"
+    },
+    "13": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "13",
+        "nome": "Manuel Quintana",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Manuel_Quintana_con_banda.jpg",
+        "partido": "PAN",
+        "ano_de_mandato": "12 de outubro de 1904 ― 12 de março de 1906 (1 ano e 151 dias)",
+        "vice_presidente": "José Figueroa Alcorta"
+    },
+    "14": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "14",
+        "nome": "José Figueroa Alcorta",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Jos%C3%A9_Figueroa_Alcorta_-_1910.JPG",
+        "partido": "PAN",
+        "ano_de_mandato": "12 de março de 1906 ― 12 de outubro de 1910 (4 anos e 214 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "15": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "15",
+        "nome": "Roque Sáenz Peña",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Roque_Saenz_Pe%C3%B1a_(obituario_1914).jpg",
+        "partido": "PAN",
+        "ano_de_mandato": "12 de outubro de 1910 ― 9 de agosto de 1914 (3 anos e 240 dias)",
+        "vice_presidente": "Victorino de la Plaza"
+    },
+    "16": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "16",
+        "nome": "Victorino de la Plaza",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Victorino_de_la_Plaza_con_banda.jpg",
+        "partido": "PAN",
+        "ano_de_mandato": "9 de agosto de 1914 ― 12 de outubro de 1916 (2 anos e 64 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "17": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "17",
+        "nome": "Hipólito Yrigoyen",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Retrato_Yrigoyen_Museo_Bicentenario.jpg",
+        "partido": "UCR",
+        "ano_de_mandato": "12 de outubro de 1916 ― 12 de outubro de 1922 (6 anos)",
+        "vice_presidente": "Pelagio Luna"
+    },
+    "18": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "18",
+        "nome": "Marcelo Torcuato de Alvear",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Presidente_Marcelo_T._De_Alvear.jpg",
+        "partido": "UCR",
+        "ano_de_mandato": "12 de outubro de 1922 ― 12 de outubro de 1928 (6 anos)",
+        "vice_presidente": "Elpidio González"
+    },
+    "19": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "19",
+        "nome": "Hipólito Yrigoyen",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Retrato_Yrigoyen_Museo_Bicentenario.jpg",
+        "partido": "UCR",
+        "ano_de_mandato": "12 de outubro de 1928 ― 6 de setembro de 1930 (1 ano e 329 dias)",
+        "vice_presidente": "Enrique Martínez"
+    },
+    "20": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "20",
+        "nome": "José Félix Uriburu",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:F%C3%A9lix_Uriburu,_militar_y_presidente_(de_facto).png",
+        "partido": "nenhum",
+        "ano_de_mandato": "6 de setembro de 1930 ― 20 de fevereiro de 1932 (1 ano e 167 dias)",
+        "vice_presidente": "Enrique Santamarina"
+    },
+    "21": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "21",
+        "nome": "Agustín Pedro Justo",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Agustin_Pedro_Justo_en_1936_(cropped).jpg",
+        "partido": "UCRA (Concordância)",
+        "ano_de_mandato": "20 de fevereiro de 1932 ― 20 de fevereiro de 1938 (6 anos)",
+        "vice_presidente": "Julio Argentino Pascual Roca"
+    },
+    "22": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "22",
+        "nome": "Roberto Marcelino Ortiz",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Roberto_Ortiz.jpg",
+        "partido": "UCRA (Condordância)",
+        "ano_de_mandato": "20 de fevereiro de 1938 ― 27 de junho de 1942 (4 anos e 127 dias)",
+        "vice_presidente": "Ramón S. Castillo"
+    },
+    "23": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "23",
+        "nome": "Ramón Castillo",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ramoncastillo.jpg",
+        "partido": "Partido Nacional Democrático (Condordância)",
+        "ano_de_mandato": "27 de junho de 1942 ― 4 de junho de 1943 (342 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "24": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "24",
+        "nome": "Pedro Pablo Ramírez",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Pedro-p-ramirez_(cropped).jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "7 de junho de 1943 ― 25 de fevereiro de 1944 (266 dias)",
+        "vice_presidente": "Sabá H. Sueyro Edelmiro Julián Farrell"
+    },
+    "25": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "25",
+        "nome": "Edelmiro Julián Farrel",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Farrel.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "25 de fevereiro de 1944 ― 4 de junho de 1946 (2 anos e 99 dias)",
+        "vice_presidente": "Juan Domingo Perón Juan Pistarini"
+    },
+    "26": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "26",
+        "nome": "Juan Domingo Perón",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:RETRATO_FOTOGR%C3%81FICO_DE_PER%C3%93N.jpg",
+        "partido": "Partido Trabalhista PJ",
+        "ano_de_mandato": "4 de junho de 1946 ― 21 de setembro de 1955 (9 anos e 109 dias)",
+        "vice_presidente": "Juan Hortencio Quijano Alberto Tessaire"
+    },
+    "27": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "27",
+        "nome": "Eduardo Lonardi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:GralEduardoLonardi_(cropped).jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "23 de setembro de 1955 ― 13 de novembro de 1955 (51 dias)",
+        "vice_presidente": "Isaac Francisco Rojas"
+    },
+    "28": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "28",
+        "nome": "Pedro Eugenio Aramburu",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Aramburu_ca_1956.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "13 de novembro de 1955 ― 1 de maio de 1958 (2 anos e 169 dias)",
+        "vice_presidente": ""
+    },
+    "29": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "29",
+        "nome": "Arturo Frondizi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Arturo_Frondizi_BP.jpg",
+        "partido": "UCR",
+        "ano_de_mandato": "1 de maio de 1958 ― 29 de março de 1962 (3 anos e 332 dias)",
+        "vice_presidente": "Alejandro Gómez"
+    },
+    "30": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "30",
+        "nome": "José María Guido",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Jos%C3%A9_Mar%C3%ADa_Guido_3_(cropped).jpg",
+        "partido": "UCR",
+        "ano_de_mandato": "29 de março de 1962 ― 12 de outubro de 1963 (1 ano e 197 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "31": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "31",
+        "nome": "Arturo Umberto Illia",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Illia_banda_presidencial.jpg",
+        "partido": "UCR",
+        "ano_de_mandato": "12 de outubro de 1963 ― 28 de junho de 1966 (2 anos e 259 dias)",
+        "vice_presidente": "Carlos H. Perrete"
+    },
+    "32": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "32",
+        "nome": "Juan Carlos Onganía",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Juan_Carlos_Ongan%C3%ADa.JPG",
+        "partido": "nenhum",
+        "ano_de_mandato": "29 de junho de 1966 ― 8 de junho de 1970 (3 anos e 344 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "33": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "33",
+        "nome": "Roberto Marcelo Levingston",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Levingston.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "8 de junho de 1970 ― 22 de março de 1971 (287 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "34": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "34",
+        "nome": "Alejandro Agustín Lanusse",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Alejandro_Agust%C3%ADn_Lanusse.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "28 de março de 1971 ― 25 de maio de 1973 (2 anos e 58 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "35": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "35",
+        "nome": "Héctor José Cámpora",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:H%C3%A9ctor_Jos%C3%A9_C%C3%A1mpora.jpg",
+        "partido": "PJ (FREJULI)",
+        "ano_de_mandato": "25 de maio de 1973 ― 13 de julho de 1973 (49 dias)",
+        "vice_presidente": "Vicente Solano Lima"
+    },
+    "36": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "36",
+        "nome": "Raúl Alberto Lastiri",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Lastiri.jpg",
+        "partido": "PJ (FREJULI)",
+        "ano_de_mandato": "13 de julho de 1973 ― 12 de outubro de 1973 (91 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "37": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "37",
+        "nome": "Juan Domingo Perón",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Juan_Per%C3%B3n_(cropped).jpg",
+        "partido": "PJ (FREJULI)",
+        "ano_de_mandato": "12 de outubro de 1973 ― 1 de julho de 1974 (262 dias)",
+        "vice_presidente": "María Estela Martínez de Perón"
+    },
+    "38": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "38",
+        "nome": "María Estela Martínez de Perón",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Isabel_Per%C3%B3n_con_el_bast%C3%B3n_y_la_banda_presidencial.jpg",
+        "partido": "PJ (FREJULI)",
+        "ano_de_mandato": "1 de julho de 1974 ― 24 de março de 1976 (1 ano e 267 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "39": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "39",
+        "nome": "Jorge Rafael Videla",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Retrato_Oficial_Jorge_Rafael_Videla_1976_(cropped).jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "29 de março de 1976 ― 29 de março de 1981 (5 anos)",
+        "vice_presidente": "nenhum"
+    },
+    "40": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "40",
+        "nome": "Roberto Eduardo Viola",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Roberto_Viola_con_banda_presidencial.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "29 de março de 1981 ― 11 de dezembro de 1981 (257 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "41": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "41",
+        "nome": "Leopoldo Fortunato Galtieri",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Retrato_Oficial_Galtieri.jpg",
+        "partido": "nenhum",
+        "ano_de_mandato": "22 de dezembro de 1981 ― 18 de junho de 1982 (189 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "42": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "42",
+        "nome": "Reynaldo Bignone",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Reynaldo_Bignone_(cropped).PNG",
+        "partido": "nenhum",
+        "ano_de_mandato": "1 de julho de 1982 ― 10 de dezembro de 1983 (1 ano e 162 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "43": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "43",
+        "nome": "Raúl Alfonsín",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ra%C3%BAl_Alfons%C3%ADn_con_banda_presidencial.jpg",
+        "partido": "UCR",
+        "ano_de_mandato": "10 de dezembro de 1983 ― 8 de julho de 1989 (5 anos e 210 dias)",
+        "vice_presidente": "Víctor Martínez"
+    },
+    "44": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "44",
+        "nome": "Carlos Menem",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Menem_con_banda_presidencial.jpg",
+        "partido": "PJ",
+        "ano_de_mandato": "8 de julho de 1989 ― 10 de dezembro de 1999 (10 anos e 155 dias)",
+        "vice_presidente": "Eduardo Duhalde Carlos Ruckauf"
+    },
+    "45": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "45",
+        "nome": "Fernando de la Rúa",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg",
+        "partido": "UCR",
+        "ano_de_mandato": "10 de dezembro de 1999 ― 21 de dezembro de 2001 (2 anos e 11 dias)",
+        "vice_presidente": "Carlos Álvarez"
+    },
+    "46": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "46",
+        "nome": "Adolfo Rodríguez Saá",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Asunci%C3%B3n_Rodr%C3%ADguez_Sa%C3%A1_(cropped).jpg",
+        "partido": "PJ",
+        "ano_de_mandato": "23 de dezembro de 2001 ― 30 de dezembro de 2001 (7 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "47": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "47",
+        "nome": "Eduardo Duhalde",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Eduardo_duhalde_presidente.jpg",
+        "partido": "PJ",
+        "ano_de_mandato": "2 de janeiro de 2002 ― 25 de maio de 2003 (1 ano e 143 dias)",
+        "vice_presidente": "nenhum"
+    },
+    "48": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "48",
+        "nome": "Néstor Kirchner",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Kirchner_-_Galer%C3%ADa_de_Presidentes_de_casarosada.gob.ar.jpg",
+        "partido": "PJ (Frente para a Vitória)",
+        "ano_de_mandato": "25 de maio de 2003 ― 10 de dezembro de 2007 (4 anos e 199 dias)",
+        "vice_presidente": "Daniel Scioli"
+    },
+    "49": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "49",
+        "nome": "Cristina Fernández de Kirchner",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Cristina_Fern%C3%A1ndez_de_Kirchner_2011-12-10.jpg",
+        "partido": "PJ (Frente para a Vitória)",
+        "ano_de_mandato": "10 de dezembro de 2007 ― 10 de dezembro de 2015 (8 anos)",
+        "vice_presidente": "Julio Cobos Amado Boudou"
+    },
+    "50": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "50",
+        "nome": "Mauricio Macri",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Retrato_oficial_del_Presidente_Mauricio_Macri.jpg",
+        "partido": "PRO (Cambiemos)",
+        "ano_de_mandato": "10 de dezembro de 2015 ― 10 de dezembro de 2019 (4 anos)",
+        "vice_presidente": "Gabriela Michetti"
+    },
+    "51": {
+        "titulo": "Primeiro-Ministro do Argentina 🇦🇷",
+        "posicao": "51",
+        "nome": "Alberto Fernández",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Alberto_fernandez_presidente_(cropped).jpg",
+        "partido": "PJ (Frente de Todos)",
+        "ano_de_mandato": "10 de dezembro de 2019 ― atualidade (3 anos e 353 dias)",
+        "vice_presidente": "Cristina Fernández de Kirchner"
+    }
+}

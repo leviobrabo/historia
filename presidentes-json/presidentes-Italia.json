@@ -1,0 +1,119 @@
+{
+  "1": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "1",
+    "nome": "Enrico De Nicola",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Enrico_De_Nicola.jpg",
+    "partido": "Partido Liberal Italiano",
+    "ano_de_mandato": "1º de janeiro de 1948 – 12 de maio de 1948",
+    "vice_presidente": "Nenhum"
+  },
+  "2": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "2",
+    "nome": "Luigi Einaudi",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Luigi_Einaudi.jpg",
+    "partido": "Partido Liberal Italiano",
+    "ano_de_mandato": "12 de maio de 1948 – 11 de maio de 1955",
+    "vice_presidente": "Nenhum"
+  },
+  "3": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "3",
+    "nome": "Giovanni Gronchi",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Giovanni_Gronchi.jpg",
+    "partido": "Democracia Cristã",
+    "ano_de_mandato": "11 de maio de 1955 – 11 de maio de 1962",
+    "vice_presidente": "Nenhum"
+  },
+  "4": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "4",
+    "nome": "Antonio Segni",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Antonio_Segni_Official.jpg",
+    "partido": "Democracia Cristã",
+    "ano_de_mandato": "11 de maio de 1962 – 6 de dezembro de 1964",
+    "vice_presidente": "Nenhum"
+  },
+  "5": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "5",
+    "nome": "Giuseppe Saragat",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Giuseppe_Saragat_(cropped).jpg",
+    "partido": "Partido Socialista Democrático Italiano",
+    "ano_de_mandato": "29 de dezembro de 1964 – 29 de dezembro de 1971",
+    "vice_presidente": "Nenhum"
+  },
+  "6": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "6",
+    "nome": "Giovanni Leone",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Giovanni_Leone.jpg",
+    "partido": "Democracia Cristã",
+    "ano_de_mandato": "29 de dezembro de 1971 – 15 de junho de 1978",
+    "vice_presidente": "Nenhum"
+  },
+  "7": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "7",
+    "nome": "Sandro Pertini",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Sandro_Pertini.png",
+    "partido": "Partito Socialista Italiano",
+    "ano_de_mandato": "9 de julho de 1978 – 29 de junho de 1985",
+    "vice_presidente": "Nenhum"
+  },
+  "8": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "8",
+    "nome": "Francesco Cossiga",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Cossiga_Francesco.jpg",
+    "partido": "Democracia Cristã",
+    "ano_de_mandato": "3 de julho de 1985 – 28 de abril de 1992",
+    "vice_presidente": "Nenhum"
+  },
+  "9": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "9",
+    "nome": "Oscar Luigi Scalfaro",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Oscar_Luigi_Scalfaro_portrait.jpg",
+    "partido": "Democracia Cristã",
+    "ano_de_mandato": "28 de maio de 1992 – 15 de maio de 1999",
+    "vice_presidente": "Nenhum"
+  },
+  "10": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "10",
+    "nome": "Carlo Azeglio Ciampi",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ciampi_ritratto.jpg",
+    "partido": "Independente",
+    "ano_de_mandato": "18 de maio de 1999 – 15 de maio de 2006",
+    "vice_presidente": "Nenhum"
+  },
+  "11": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "11",
+    "nome": "Giorgio Napolitano",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Presidente_Napolitano.jpg",
+    "partido": "Democratas de Esquerda",
+    "ano_de_mandato": "15 de maio de 2006 – 22 de abril de 2013",
+    "vice_presidente": "Nenhum"
+  },
+  "12": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "12",
+    "nome": "Giorgio Napolitano",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Presidente_Napolitano.jpg",
+    "partido": "Democratas de Esquerda",
+    "ano_de_mandato": "15 de maio de 2006 – 22 de abril de 2013",
+    "vice_presidente": "Nenhum"
+  },
+  "13": {
+    "titulo": "Presidente do Itália 🇮🇹",
+    "posicao": "13",
+    "nome": "Sergio Mattarella",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Sergio_Mattarella_Presidente_della_Repubblica_Italiana.jpg",
+    "partido": "Independente",
+    "ano_de_mandato": "3 de fevereiro de 2015 – no cargo",
+    "vice_presidente": "Nenhum"
+  }
+}

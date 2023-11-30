@@ -1,0 +1,65 @@
+{
+  "1": {
+    "titulo": "Presidente da Indonésia  🇮🇩",
+    "posicao": "1",
+    "nome": "Sukarno",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Presiden_Sukarno.jpg",
+    "partido": "Independente",
+    "mandato": "18 de agosto de 1945 – 12 de março de 1967",
+    "vice-presidente": "Nenhum"
+  },
+  "2": {
+    "titulo": "Presidente da Indonésia  🇮🇩",
+    "posicao": "2",
+    "nome": "Suharto",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:President_Suharto,_1993.jpg",
+    "partido": "Golkar",
+    "mandato": "12 de março de 1967 – 21 de maio de 1998",
+    "vice-presidente": "Vacante (1967-1973), Hamengkubuwono IX (1973-1978), Adam Malik (1978-1983), Umar Wirahadikusumah (1983-1988), Sudharmono (1988-1993), Try Sutrisno (1993-1998), Jusuf Habibie (1998)"
+  },
+  "3": {
+    "titulo": "Presidente da Indonésia  🇮🇩",
+    "posicao": "3",
+    "nome": "Jusuf Habibie",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:B._J._Habibie,_President_of_Indonesia_portrait.jpg",
+    "partido": "Golkar",
+    "mandato": "21 de maio de 1998 – 20 de outubro de 1999",
+    "vice-presidente": "Vacante"
+  },
+  "4": {
+    "titulo": "Presidente da Indonésia  🇮🇩",
+    "posicao": "4",
+    "nome": "Abdurrahman Wahid",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:President_Abdurrahman_Wahid_-_Indonesia.jpg",
+    "partido": "PKB",
+    "mandato": "20 de outubro de 1999 – 23 de julho de 2001",
+    "vice-presidente": "Megawati Sukarnoputri"
+  },
+  "5": {
+    "titulo": "Presidente da Indonésia  🇮🇩",
+    "posicao": "5",
+    "nome": "Megawati Sukarnoputri",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:President_Abdurrahman_Wahid_-_Indonesia.jpg",
+    "partido": "PDI-P",
+    "mandato": "23 de julho de 2001 – 20 de outubro de 2004",
+    "vice-presidente": "Hamzah Haz"
+  },
+  "6": {
+    "titulo": "Presidente da Indonésia  🇮🇩",
+    "posicao": "6",
+    "nome": "Susilo Bambang Yudhoyono",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Presiden_Susilo_Bambang_Yudhoyono.png",
+    "partido": "Democrático",
+    "mandato": "20 de outubro de 2004 – 20 de outubro de 2014",
+    "vice-presidente": "Jusuf Kalla (2004) e Boediono (2009)"
+  },
+  "7": {
+    "titulo": "Presidente da Indonésia  🇮🇩",
+    "posicao": "7",
+    "nome": "Joko Widodo",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Joko_Widodo_2019_official_portrait.jpg",
+    "partido": "PDI-P",
+    "mandato": "23 de julho de 2001 – 20 de outubro de 2004",
+    "vice-presidente": "Jusuf Kalla (2014) e Ma'ruf Amin (2019)"
+  }
+}

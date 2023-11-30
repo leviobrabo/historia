@@ -1,0 +1,110 @@
+{
+    "1": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "1",
+        "nome": "Mustafa Kemal Atatürk",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:TBMM_Ba%C5%9Fkan%C4%B1_Abd%C3%BClhalik_Renda.jpg",
+        "ano_de_mandato": "29 de outubro de 1923 - 10 de novembro de 1938",
+        "partido": "Partido Republicano do Povo",
+        "vice_presidente": "Nenhum"
+    },
+    "2": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "2",
+        "nome": "İsmet İnönü",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Inonu_Ismet.jpg",
+        "ano_de_mandato": "11 de novembro de 1938 - 27 de maio de 1950",
+        "partido": "Partido Republicano do Povo",
+        "vice_presidente": "Nenhum"
+    },
+    "3": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "3",
+        "nome": "Celâl Bayar",
+        "foto": "https://pt.wikipedia.orgImagem não disponível",
+        "ano_de_mandato": "27 de maio de 1950 - 27 de maio de 1960",
+        "partido": "Partido Democrata",
+        "vice_presidente": "Nenhum"
+    },
+    "4": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "4",
+        "nome": "Cemal Gürsel",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Cemal_G%C3%BCrsel.jpg",
+        "ano_de_mandato": "10 de outubro de 1961 - 2 de fevereiro de 1966",
+        "partido": "Independente",
+        "vice_presidente": "Nenhum"
+    },
+    "5": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "5",
+        "nome": "Cevdet Sunay",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Turkse_chef_Generale_staf_(Generaal_Sunay),,_Bestanddeelnr_916-7535_(cropped).jpg",
+        "ano_de_mandato": "28 de março de 1966 - 28 de março de 1973",
+        "partido": "Independente",
+        "vice_presidente": "Nenhum"
+    },
+    "6": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "6",
+        "nome": "Fahri Korutürk",
+        "foto": "https://pt.wikipedia.org/wiki/Fahri_Korut%C3%BCrk#/media/Ficheiro:National_Struggle_Park,_Kar%C5%9F%C4%B1yaka,_Izm%C4%B1r_87.jpg",
+        "ano_de_mandato": "6 de abril de 1973 - 6 de abril de 1980",
+        "partido": "Independente",
+        "vice_presidente": "Nenhum"
+    },
+    "7": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "7",
+        "nome": "Kenan Evren",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Kenan_Evren.png",
+        "ano_de_mandato": "9 de novembro de 1982 - 9 de novembro de 1989",
+        "partido": "Independente",
+        "vice_presidente": "Nenhum"
+    },
+    "8": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "8",
+        "nome": "Turgut Özal",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Turgut_%C3%96zal_1986.jpg",
+        "ano_de_mandato": "9 de novembro de 1989 - 17 de abril de 1993",
+        "partido": "Partido da Pátria",
+        "vice_presidente": "Nenhum"
+    },
+    "9": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "9",
+        "nome": "Süleyman Demirel",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Suleyman_Demirel_1998_(cropped).jpg",
+        "ano_de_mandato": "16 de maio de 1993 - 16 de maio de 2000",
+        "partido": "Partido do Caminho Verdadeiro",
+        "vice_presidente": "Nenhum"
+    },
+    "10": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "10",
+        "nome": "Ahmet Necdet Sezer",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ahmet_Necdet_Sezer_2006.jpg",
+        "ano_de_mandato": "16 de maio de 2000 - 28 de agosto de 2007",
+        "partido": "Independente",
+        "vice_presidente": "Nenhum"
+    },
+    "11": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "11",
+        "nome": "Abdullah Gül",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Abdullah_G%C3%BCl_2011-06-07.jpg",
+        "ano_de_mandato": "28 de agosto de 2007 - 28 de agosto de 2014",
+        "partido": "Partido da Justiça e Desenvolvimento",
+        "vice_presidente": "Nenhum"
+    },
+    "12": {
+        "titulo": "Presidente da Turquia 🇹🇷",
+        "posicao": "12",
+        "nome": "Recep Tayyip Erdoğan",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Recep_Tayyip_Erdogan_in_Ukraine.jpg",
+        "ano_de_mandato": "28 de agosto de 2014 - em exercício",
+        "partido": "Partido da Justiça e Desenvolvimento",
+        "vice_presidente": "Nenhum"
+    }
+}

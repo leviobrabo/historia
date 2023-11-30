@@ -1,0 +1,119 @@
+{
+  "1": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "1",
+    "nome": "Rhee Syng-man",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Rhee_Syng-Man_in_1948.jpg",
+    "partido": "Partido Liberal",
+    "ano_de_mandato": "24 de julho 1948 - 27 de abril 1960",
+    "vice_presidente": "Nenhum"
+  },
+  "2": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "2",
+    "nome": "Yun Bo-seon",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yun_Bo-seon.jpg",
+    "partido": "Partido Democrático",
+    "ano_de_mandato": "12 de agosto 1960 - 24 de março 1962",
+    "vice_presidente": "Nenhum"
+  },
+  "3": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "3",
+    "nome": "Park Chung-hee",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Park_Chung-hee_1963%27s.png",
+    "partido": "Partido Democrático Republicano",
+    "ano_de_mandato": "17 de dezembro 1963 - 26 de outubro 1979",
+    "vice_presidente": "Nenhum"
+  },
+  "4": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "4",
+    "nome": "Choi Kyu-hah",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Choi_Kyu_Hah.png",
+    "partido": "Independente",
+    "ano_de_mandato": "6 de dezembro 1979 - 16 de agosto 1980",
+    "vice_presidente": "Nenhum"
+  },
+  "5": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "5",
+    "nome": "Chun Doo-hwan",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Chun_Doo-hwan.png",
+    "partido": "Partido da Justiça Democrática",
+    "ano_de_mandato": "1 de setembro 1980 - 24 de fevereiro 1988",
+    "vice_presidente": "Nenhum"
+  },
+  "6": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "6",
+    "nome": "Roh Tae-woo",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Roh_Tae-woo_-_cropped,_1989-Mar-13.jpg",
+    "partido": "Partido da Justiça Democrática",
+    "ano_de_mandato": "25 de fevereiro 1988 - 24 de fevereiro 1993",
+    "vice_presidente": "Nenhum"
+  },
+  "7": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "7",
+    "nome": "Kim Young-sam",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Kim_Young-sam_presidential_portrait.jpg",
+    "partido": "Partido da Justiça Democrática",
+    "ano_de_mandato": "25 de fevereiro 1993 - 24 de fevereiro 1998",
+    "vice_presidente": "Nenhum"
+  },
+  "8": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "8",
+    "nome": "Kim Dae-jung",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Kim_Dae-jung_presidential_portrait.jpg",
+    "partido": "Congresso Nacional para a Nova Política",
+    "ano_de_mandato": "25 de fevereiro 1998 - 24 de fevereiro 2003",
+    "vice_presidente": "Nenhum"
+  },
+  "9": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "9",
+    "nome": "Roh Moo-hyun",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Roh_Moo-hyun_presidential_portrait.jpg",
+    "partido": "Partido Democrático do Novo Milênio",
+    "ano_de_mandato": "25 de fevereiro 2003 - 24 de fevereiro 2008",
+    "vice_presidente": "Nenhum"
+  },
+  "10": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "10",
+    "nome": "Lee Myung-bak",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Lee_Myung-bak_presidential_portrait.jpg",
+    "partido": "Grande Partido Nacional",
+    "ano_de_mandato": "25 de fevereiro 2008 - 24 de fevereiro 2013",
+    "vice_presidente": "Nenhum"
+  },
+  "11": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "11",
+    "nome": "Park Geun-hye",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Park_Geun-hye_presidential_portrait.png",
+    "partido": "Partido Saenuri",
+    "ano_de_mandato": "25 de fevereiro 2013 - 10 de março 2017",
+    "vice_presidente": "Nenhum"
+  },
+  "12": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "12",
+    "nome": "Moon Jae-in",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Moon_Jae-in_(2017-10-01)_cropped.jpg",
+    "partido": "Democrático",
+    "ano_de_mandato": "10 de maio 2017 - 9 de maio 2022",
+    "vice_presidente": "Nenhum"
+  },
+  "13": {
+    "titulo": "Presidente da Coreia do Sul 🇰🇷",
+    "posicao": "13",
+    "nome": "Yoon Suk-yeol",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yoon_Suk-yeol_in_May_2022.jpg",
+    "partido": "Poder Popular",
+    "ano_de_mandato": "10 de maio de 2022 - Incumbente",
+    "vice_presidente": "Nenhum"
+  }
+}

@@ -1,0 +1,101 @@
+{
+    "1": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "1",
+        "nome": "Chaim Weizmann",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Flickr_-_Government_Press_Office_(GPO)_-_President_Chaim_Weizmann.jpg",
+        "partido": "Sionistas Gerais",
+        "ano_de_mandato": "17 de maio de 1948 - 9 de novembro de 1952",
+        "vice_presidente": "Nenhum"
+    },
+    "2": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "2",
+        "nome": "Yitzhak Ben-Zvi",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Yitzhak_Ben-Zvi.jpg",
+        "partido": "Mapai",
+        "ano_de_mandato": "8 de dezembro de 1952 - 23 de abril de 1963",
+        "vice_presidente": "Nenhum"
+    },
+    "3": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "3",
+        "nome": "Zalman Shazar",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Portrait_of_Zalman_Shazar.jpg",
+        "partido": "Partido Trabalhista(desde 1968)",
+        "ano_de_mandato": "21 de maio de 1963 - 24 de maio de 1973",
+        "vice_presidente": "Nenhum"
+    },
+    "4": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "4",
+        "nome": "Ephraim Katzir",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ephraim_Katzir_(cropped).jpg",
+        "partido": "Partido Trabalhista",
+        "ano_de_mandato": "24 de maio de 1973 - 28 de maio de 1978",
+        "vice_presidente": "Nenhum"
+    },
+    "5": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "5",
+        "nome": "Yitzhak Navon",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Portrait_of_MP_Yitzhak_Navon.jpg",
+        "partido": "Partido Trabalhista",
+        "ano_de_mandato": "28 de maio de 1978 - 5 de maio de 1983",
+        "vice_presidente": "Nenhum"
+    },
+    "6": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "6",
+        "nome": "Chaim Herzog",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:PikiWiki_Israel_41500_Haim_Hertzog_(cropped1).jpg",
+        "partido": "Partido Trabalhista",
+        "ano_de_mandato": "5 de maio de 1983 - 13 de maio de 1993",
+        "vice_presidente": "Nenhum"
+    },
+    "7": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "7",
+        "nome": "Ezer Weizman",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ezer_Weizman_1969.jpg",
+        "partido": "Partido Trabalhista",
+        "ano_de_mandato": "13 de maio de 1993 - 13 de julho de 2000",
+        "vice_presidente": "Nenhum"
+    },
+    "8": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "8",
+        "nome": "Moshe Katsav",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Moshe_Katsav_2,_by_Amir_Gilad_(cropped).JPG",
+        "partido": "Likud",
+        "ano_de_mandato": "1 de agosto de 2000 - 15 de julho de 2007",
+        "vice_presidente": "Nenhum"
+    },
+    "9": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "9",
+        "nome": "Shimon Peres",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Shimon_Peres_in_Brazil_(cropped_2).jpg",
+        "partido": "Kadima",
+        "ano_de_mandato": "15 de julho de 2007 - 24 de julho de 2014",
+        "vice_presidente": "Nenhum"
+    },
+    "10": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "10",
+        "nome": "Reuven Rivlin",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Reuven_Rivlin_as_the_president_of_Israel.jpg",
+        "partido": "Likud",
+        "ano_de_mandato": "24 de julho de 2014 - 7 de julho de 2021",
+        "vice_presidente": "Nenhum"
+    },
+    "11": {
+        "titulo": "Presidente de Israel 🇮🇱",
+        "posicao": "11",
+        "nome": "Isaac Herzog",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Isaac_Herzog,_July_2021_(D1233-049).JPG",
+        "partido": "Partido Trabalhista",
+        "ano_de_mandato": "7 de julho de 2021 - presente",
+        "vice_presidente": "Nenhum"
+    }
+}

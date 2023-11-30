@@ -1,0 +1,704 @@
+{
+  "1": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "1",
+    "nome": "Sir Robert Walpole 1.º Conde de Orford",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Robert_Walpole,_1st_Earl_of_Orford_by_Arthur_Pond_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "3 de abril de 1721 - 11 de fevereiro de 1742",
+    "vice_presidente": "Nenhum"
+  },
+  "2": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "2",
+    "nome": "Spencer Compton 1.º Conde de Wilmington",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Spencer_Compton_1st_Earl_of_Wilmington_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "16 de fevereiro de 1742 - 2 de julho de 1743",
+    "vice_presidente": "Nenhum"
+  },
+  "3": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "3",
+    "nome": "Henry Pelham",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Henry_Pelham_(1694%E2%80%931754)_(cropped_2).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "27 de agosto de 1743 - 6 de março de 1754",
+    "vice_presidente": "Nenhum"
+  },
+  "4": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "4",
+    "nome": "Thomas Pelham-Holles 1.º Duque de Newcastle",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Thomas-Pelham-Holles-1st-Duke-of-Newcastle-under-Lyne_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "16 de março de 1754 - 11 de novembro de 1756",
+    "vice_presidente": "Nenhum"
+  },
+  "5": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "5",
+    "nome": "William Cavendish 4.º Duque de Devonshire",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:4th_Duke_of_Devonshire_after_Hudson_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "16 de novembro de 1756 - 29 de junho de 1757",
+    "vice_presidente": "Nenhum"
+  },
+  "6": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "6",
+    "nome": "Thomas Pelham-Holles 1.º Duque de Newcastle (1693–1768)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Thomas-Pelham-Holles-1st-Duke-of-Newcastle-under-Lyne_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "29 de junho de 1757 - 26 de maio de 1762",
+    "vice_presidente": "Nenhum"
+  },
+  "7": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "7",
+    "nome": "John Stuart 3.º Conde de Bute",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:John_Stuart,_3rd_Earl_of_Bute,_by_Joshua_Reynolds_crop_(retouched,_cropped).jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "26 de maio de 1762 - 8 de abril de 1763",
+    "vice_presidente": "Nenhum"
+  },
+  "8": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "8",
+    "nome": "George Grenville",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:George_Grenville_(1712%E2%80%931770)_by_William_Hoare_(1707-1792)_Cropped_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "16 de abril de 1763 - 10 de julho de 1765",
+    "vice_presidente": "Nenhum"
+  },
+  "9": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "9",
+    "nome": "Charles Watson-Wentworth 2.º Marquês de Rockingham",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:2nd_Marquess_of_Rockingham_cropped_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "13 de julho de 1765 - 30 de julho de 1766",
+    "vice_presidente": "Nenhum"
+  },
+  "10": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "10",
+    "nome": "William Pitt, o Velho 1.º Conde de Chatham",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:William_Pitt,_1st_Earl_of_Chatham_after_Richard_Brompton_cropped_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "30 de julho de 1766 - 14 de outubro de 1768",
+    "vice_presidente": "Nenhum"
+  },
+  "11": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "11",
+    "nome": "Augustus FitzRoy 3.º Duque de Grafton",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Augustus-Henry-FitzRoy-3rd-Duke-of-Grafton_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "14 de outubro de 1768 - 28 de janeiro de 1770",
+    "vice_presidente": "Nenhum"
+  },
+  "12": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "12",
+    "nome": "Frederick North 2.º Conde de Guilford",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Nathaniel_Dance_Lord_North_cropped_cropped_(cropped).jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "28 de janeiro de 1770 - 27 de março de 1782",
+    "vice_presidente": "Nenhum"
+  },
+  "13": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "13",
+    "nome": "Charles Watson-Wentworth 2.º Marquês de Rockingham (1730–1782)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:2nd_Marquess_of_Rockingham_cropped_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "27 de março de 1782 - 1 de julho de 1782",
+    "vice_presidente": "Nenhum"
+  },
+  "14": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "14",
+    "nome": "William Petty 1.º Marquês de Lansdowne",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:William_Petty,_2nd_Earl_of_Shelburne_by_JL_Mosnier_crop_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "4 de julho de 1782 - 26 de março de 1783",
+    "vice_presidente": "Nenhum"
+  },
+  "15": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "15",
+    "nome": "William Cavendish-Bentinck 3.º Duque de Portland",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:01-Bentinck_William_Henry_Cavendish,_3rd_Duke_of_Portland_c_1774_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "2 de abril de 1783 - 18 de dezembro de 1783",
+    "vice_presidente": "Nenhum"
+  },
+  "16": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "16",
+    "nome": "William Pitt, o Novo",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:George-Romney-xx-William-Pitt-the-Younger-xx-Tate-Britain_(cropped).jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "19 de dezembro de 1783 - 14 de março de 1801",
+    "vice_presidente": "Nenhum"
+  },
+  "17": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "17",
+    "nome": "Henry Addington 1.º Visconde Sidmouth",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Henry_Addington_by_Beechey_(cropped).jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "17 de março de 1801 - 10 de maio de 1804",
+    "vice_presidente": "Nenhum"
+  },
+  "18": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "18",
+    "nome": "William Pitt, o Novo (1759–1806)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:OlderPittThe_Younger_crop.jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "10 de maio de 1804 - 23 de janeiro de 1806",
+    "vice_presidente": "Nenhum"
+  },
+  "19": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "19",
+    "nome": "William Grenville 1.º Barão Grenville",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:1st_Baron_Grenville_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "11 de fevereiro de 1806 - 25 de março de 1807",
+    "vice_presidente": "Nenhum"
+  },
+  "20": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "20",
+    "nome": "William Cavendish-Bentinck 3.º Duque de Portland (1738–1809)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:01-Bentinck_William_Henry_Cavendish,_3rd_Duke_of_Portland_c_1774_(cropped).jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "31 de março de 1807 - 4 de outubro de 1809",
+    "vice_presidente": "Nenhum"
+  },
+  "21": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "21",
+    "nome": "Spencer Perceval",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Spencerperceval_(cropped).jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "4 de outubro de 1809 - 11 de maio de 1812",
+    "vice_presidente": "Nenhum"
+  },
+  "22": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "22",
+    "nome": "Robert Jenkinson 2.º Conde de Liverpool",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Earl_jenkinson_(cropped).jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "8 de junho de 1812 - 9 de abril de 1827",
+    "vice_presidente": "Nenhum"
+  },
+  "23": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "23",
+    "nome": "George Canning",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:George_Canning_by_Richard_Evans_-_detail_(cropped).jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "12 de abril de 1827 - 8 de agosto de 1827",
+    "vice_presidente": "Nenhum"
+  },
+  "24": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "24",
+    "nome": "Frederick John Robinson 1.º Conde de Ripon",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Frederick_John_Robinson,_1st_Earl_of_Ripon_by_Sir_Thomas_Lawrence_cropped_(cropped).jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "31 de agosto de 1827 - 8 de janeiro de 1828",
+    "vice_presidente": "Nenhum"
+  },
+  "25": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "25",
+    "nome": "Arthur Wellesley 1.º Duque de Wellington",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Arthur_Wellesley,_1st_Duke_of_Wellington_by_Robert_Home_cropped.jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "22 de janeiro de 1828- 16 de novembro de 1830",
+    "vice_presidente": "Nenhum"
+  },
+  "26": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "26",
+    "nome": "Charles Grey 2.º Conde Grey",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Charles_Grey,_2nd_Earl_Grey_after_Sir_Thomas_Lawrence_cropped_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "22 de novembro de 1830 - 9 de julho de 1834",
+    "vice_presidente": "Nenhum"
+  },
+  "27": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "27",
+    "nome": "Arthur Wellesley 1.º Duque de Wellington (1769–1852)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Duke_of_Wellington_Photo_cleaned.jpg",
+    "partido": "Tory",
+    "ano_de_mandato": "17 de novembro de 1834 - 9 de dezembro de 1834",
+    "vice_presidente": "Nenhum"
+  },
+  "28": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "28",
+    "nome": "Sir Robert Peel 2.º Baronete",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Robert_Peel_by_RR_Scanlan_detail_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "10 de dezembro de 1834 - 8 de abril de 1835",
+    "vice_presidente": "Nenhum"
+  },
+  "29": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "29",
+    "nome": "William Lamb 2.º Visconde Melbourne",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:2nd_V_Melbourne_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "18 de abril de 1835 - 30 de agosto de 1841",
+    "vice_presidente": "Nenhum"
+  },
+  "30": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "30",
+    "nome": "Sir Robert Peel 2.º Baronete (1788–1850)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Robert_Peel_by_RR_Scanlan_detail_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "30 de agosto de 1841 - 29 de junho de 1846",
+    "vice_presidente": "Nenhum"
+  },
+  "31": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "31",
+    "nome": "John Russell 1.º Conde Russell",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Lord_John_Russell_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "30 de junho de 1846 - 21 de fevereiro de 1852",
+    "vice_presidente": "Nenhum"
+  },
+  "32": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "32",
+    "nome": "Edward Smith-Stanley 14.º Conde de Derby",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:14th_Earl_of_Derby_(cropped)_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "23 de fevereiro de 1852 - 17 de dezembro de 1852",
+    "vice_presidente": "Nenhum"
+  },
+  "33": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "33",
+    "nome": "George Hamilton-Gordon 4.º Conde de Aberdeen",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:George_Hamilton-Gordon_(cropped).jpg",
+    "partido": "Peelite",
+    "ano_de_mandato": "19 de dezembro de 1852 - 30 de janeiro de 1855",
+    "vice_presidente": "Nenhum"
+  },
+  "34": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "34",
+    "nome": "Henry Temple 3.º Visconde Palmerston",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Henry_John_Temple,_3rd_Viscount_Palmerston_(cropped).jpg",
+    "partido": "Whig",
+    "ano_de_mandato": "6 de fevereiro de 1855 - 19 de fevereiro de 1858",
+    "vice_presidente": "Nenhum"
+  },
+  "35": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "35",
+    "nome": "Edward Smith-Stanley 14.º Conde de Derby (1799–1869)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:14th_Earl_of_Derby_(cropped)_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "20 de fevereiro de 1858 - 11 de junho de 1859",
+    "vice_presidente": "Nenhum"
+  },
+  "36": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "36",
+    "nome": "Henry Temple 3.º Visconde Palmerston (1784–1865)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Henry_John_Temple,_3rd_Viscount_Palmerston_(cropped).jpg",
+    "partido": "Liberal",
+    "ano_de_mandato": "12 de junho de 1859 - 18 de outubro de 1865",
+    "vice_presidente": "Nenhum"
+  },
+  "37": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "37",
+    "nome": "John Russell 1.º Conde Russell (1792–1878)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Lord_John_Russell_(cropped).jpg",
+    "partido": "Liberal",
+    "ano_de_mandato": "29 de outubro de 1865 - 26 de junho de 1866",
+    "vice_presidente": "Nenhum"
+  },
+  "38": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "38",
+    "nome": "Edward Smith-Stanley 14.º Conde de Derby (1799–1869)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:14th_Earl_of_Derby_(cropped)_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "28 de junho de 1866 - 25 de fevereiro de 1868",
+    "vice_presidente": "Nenhum"
+  },
+  "39": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "39",
+    "nome": "Benjamin Disraeli 1.º Conde de Beaconsfield",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Benjamin_Disraeli_by_H_Lenthall_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "27 de fevereiro de 1868 - 1 de dezembro de 1868",
+    "vice_presidente": "Nenhum"
+  },
+  "40": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "40",
+    "nome": "William Ewart Gladstone",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:William_Ewart_Gladstone_(cropped).jpg",
+    "partido": "Liberal",
+    "ano_de_mandato": "3 de dezembro de 1868 - 17 de fevereiro de 1874",
+    "vice_presidente": "Nenhum"
+  },
+  "41": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "41",
+    "nome": "Benjamin Disraeli",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Benjamin_Disraeli_by_H_Lenthall_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "20 de fevereiro de 1874 - 21 de abril de 1880",
+    "vice_presidente": "Nenhum"
+  },
+  "42": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "42",
+    "nome": "William Ewart Gladstone (1809–1898)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:William_Ewart_Gladstone_(cropped).jpg",
+    "partido": "Liberal",
+    "ano_de_mandato": "23 de abril de 1880 - 9 de junho de 1885",
+    "vice_presidente": "Nenhum"
+  },
+  "43": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "43",
+    "nome": "Robert Gascoyne-Cecil 3.º Marquês de Salisbury",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Robert_cecil_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "23 de junho de 1885 - 28 de janeiro de 1886",
+    "vice_presidente": "Nenhum"
+  },
+  "44": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "44",
+    "nome": "William Ewart Gladstone (1809–1898)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:William_Ewart_Gladstone_(cropped).jpg",
+    "partido": "Liberal",
+    "ano_de_mandato": "1 de fevereiro de 1886 - 20 de julho de 1886",
+    "vice_presidente": "Nenhum"
+  },
+  "45": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "45",
+    "nome": "Robert Gascoyne-Cecil 3.º Marquês de Salisbury (1830–1903)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Robert_cecil_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "25 de julho de 1886 - 11 de agosto de 1892",
+    "vice_presidente": "Nenhum"
+  },
+  "46": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "46",
+    "nome": "William Ewart Gladstone (1809–1898)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:William_Ewart_Gladstone_(cropped).jpg",
+    "partido": "Liberal",
+    "ano_de_mandato": "15 de agosto de 1892 - 2 de março de 1894",
+    "vice_presidente": "Nenhum"
+  },
+  "47": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "47",
+    "nome": "Archibald Primrose 5.º Conde de Rosebery",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Archibald-Philip-Primrose-5th-Earl-of-Rosebery_(cropped)_(cropped).jpg",
+    "partido": "Liberal",
+    "ano_de_mandato": "5 de março de 1894 - 22 de junho de 1895",
+    "vice_presidente": "Nenhum"
+  },
+  "48": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "48",
+    "nome": "Robert Gascoyne-Cecil 3.º Marquês de Salisbury (1830–1903)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Robert_cecil_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "25 de junho de 1895 - 11 de julho de 1902",
+    "vice_presidente": "Nenhum"
+  },
+  "49": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "49",
+    "nome": "Arthur Balfour 1.º Conde de Balfour",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Arthur-James-Balfour-1st-Earl-of-Balfour.jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "12 de julho de 1902 - 4 de dezembro de 1905",
+    "vice_presidente": "Nenhum"
+  },
+  "50": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "50",
+    "nome": "Henry Campbell-Bannerman",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Sir-Henry-Campbell-Bannerman.jpg",
+    "partido": "Liberal",
+    "ano_de_mandato": "5 de dezembro de 1905 - 3 de abril de 1908",
+    "vice_presidente": "Nenhum"
+  },
+  "51": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "51",
+    "nome": "Herbert Henry Asquith 1.º Conde de Oxford e Asquith",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:H_H_Asquith_1908_(cropped).jpg",
+    "partido": "Liberal",
+    "ano_de_mandato": "8 de abril de 1908 - 5 de dezembro de 1916",
+    "vice_presidente": "Nenhum"
+  },
+  "52": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "52",
+    "nome": "David Lloyd George 1.º Conde Lloyd-George de Dwyfor",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:LloydGeorge_(cropped).jpg",
+    "partido": "Liberal",
+    "ano_de_mandato": "6 de dezembro de 1916 - 19 de outubro de 1922",
+    "vice_presidente": "Nenhum"
+  },
+  "53": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "53",
+    "nome": "Andrew Bonar Law",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Andrew_Bonar_Law_01_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "23 de outubro de 1922 - 20 de maio de 1923",
+    "vice_presidente": "Nenhum"
+  },
+  "54": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "54",
+    "nome": "Stanley Baldwin 1.º Conde Baldwin de Bewdley",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Stanley_Baldwin_ggbain.35233_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "22 de maio de 1923 - 22 de janeiro de 1924",
+    "vice_presidente": "Nenhum"
+  },
+  "55": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "55",
+    "nome": "Ramsay MacDonald",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ramsay-MacDonald_(cropped).jpg",
+    "partido": "Trabalhista",
+    "ano_de_mandato": "22 de janeiro de 1924 - 4 de novembro de 1924",
+    "vice_presidente": "Nenhum"
+  },
+  "56": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "56",
+    "nome": "Stanley Baldwin 1.º Conde Baldwin de Bewdley (1867–1947)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Stanley_Baldwin_ggbain.35233_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "4 de novembro de 1924 - 4 de junho de 1929",
+    "vice_presidente": "Nenhum"
+  },
+  "57": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "57",
+    "nome": "Ramsay MacDonald (1866–1937)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ramsay-MacDonald_(cropped).jpg",
+    "partido": "Nacional Trabalhista",
+    "ano_de_mandato": "5 de junho de 1929 - 7 de junho de 1935",
+    "vice_presidente": "Nenhum"
+  },
+  "58": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "58",
+    "nome": "Stanley Baldwin 1.º Conde Baldwin de Bewdley (1867–1947)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Stanley_Baldwin_ggbain.35233_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "7 de junho de 1935 - 28 de maio de 1937",
+    "vice_presidente": "Nenhum"
+  },
+  "59": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "59",
+    "nome": "Neville Chamberlain",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Neville-Chamberlain.jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "28 de maio de 1937 - 10 de maio de 1940",
+    "vice_presidente": "Nenhum"
+  },
+  "60": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "60",
+    "nome": "Winston Churchill",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Sir_Winston_Churchill_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "10 de maio de 1940 - 26 de julho de 1945",
+    "vice_presidente": "Nenhum"
+  },
+  "61": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "61",
+    "nome": "Clement Attlee 1.º Conde Attlee",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Clement_Attlee_(cropped).jpg",
+    "partido": "Trabalhista",
+    "ano_de_mandato": "26 de julho de 1945 - 26 de outubro de 1951",
+    "vice_presidente": "Nenhum"
+  },
+  "62": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "62",
+    "nome": "Sir Winston Churchill (1874–1965)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Sir_Winston_Churchill_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "26 de outubro de 1951 - 5 de abril de 1955",
+    "vice_presidente": "Nenhum"
+  },
+  "63": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "63",
+    "nome": "Sir Anthony Eden",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Anthony_Eden_(retouched).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "6 de abril de 1955 - 9 de janeiro de 1957",
+    "vice_presidente": "Nenhum"
+  },
+  "64": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "64",
+    "nome": "Harold Macmillan 1° Conde de Stockton",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Harold_Macmillan_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "10 de janeiro de 1957 - 18 de outubro de 1963",
+    "vice_presidente": "Nenhum"
+  },
+  "65": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "65",
+    "nome": "Alec Douglas-Home Barão Home de Hirsel",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Alec_Douglas-Home_(c1963)_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "19 de outubro de 1963 - 16 de outubro de 1964",
+    "vice_presidente": "Nenhum"
+  },
+  "66": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "66",
+    "nome": "Harold Wilson Barão Wilson de Rievaulx",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Harold_Wilson.jpg",
+    "partido": "Trabalhista",
+    "ano_de_mandato": "16 de outubro de 1964 - 19 de junho de 1970",
+    "vice_presidente": "Nenhum"
+  },
+  "67": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "67",
+    "nome": "Sir Edward Heath",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Edward_Heath_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "19 de junho de 1970 - 4 de março de 1974",
+    "vice_presidente": "Nenhum"
+  },
+  "68": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "68",
+    "nome": "Harold Wilson Barão Wilson de Rievaulx (1916–1995)",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Lord_Harold_Wilson_Allan_Warren.jpg",
+    "partido": "Trabalhista",
+    "ano_de_mandato": "4 de março de 1974 - 5 de abril de 1976",
+    "vice_presidente": "Nenhum"
+  },
+  "69": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "69",
+    "nome": "James Callaghan Barão Callaghan de Cardiff",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:James_Callaghan_ppmsca.53218_(cropped).tif",
+    "partido": "Trabalhista",
+    "ano_de_mandato": "5 de abril de 1976 - 4 de maio de 1979",
+    "vice_presidente": "Nenhum"
+  },
+  "70": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "70",
+    "nome": "Margaret Thatcher Baronesa Thatcher de Kesteven",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Margaret_Thatcher_stock_portrait.jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "4 de maio de 1979 - 28 de novembro de 1990",
+    "vice_presidente": "Nenhum"
+  },
+  "71": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "71",
+    "nome": "Sir John Major",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:John_Major_2014.jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "28 de novembro de 1990 - 2 de maio de 1997",
+    "vice_presidente": "Nenhum"
+  },
+  "72": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "72",
+    "nome": "Sir Tony Blair",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Tony_Blair_2010_(cropped).jpg",
+    "partido": "Trabalhista",
+    "ano_de_mandato": "2 de maio de 1997 - 27 de junho de 2007",
+    "vice_presidente": "Nenhum"
+  },
+  "73": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "73",
+    "nome": "Gordon Brown",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Gordon_Brown_Davos_2008_crop_(1).jpg",
+    "partido": "Trabalhista",
+    "ano_de_mandato": "27 de junho de 2007 - 11 de maio de 2010",
+    "vice_presidente": "Nenhum"
+  },
+  "74": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "74",
+    "nome": "David Cameron",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:David_Cameron_Official_Portrait_2023.jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "11 de maio de 2010 - 13 de julho de 2016",
+    "vice_presidente": "Nenhum"
+  },
+  "75": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "75",
+    "nome": "Theresa May",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Theresa_May_(2015).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "13 de julho de 2016 - 24 de julho de 2019",
+    "vice_presidente": "Nenhum"
+  },
+  "76": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "76",
+    "nome": "Boris Johnson",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Boris_Johnson_election_infobox.jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "24 de julho de 2019 - 6 de setembro de 2022",
+    "vice_presidente": "Nenhum"
+  },
+  "77": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "77",
+    "nome": "Liz Truss",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Liz_Truss_official_portrait_(cropped)2.jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "6 de setembro de 2022 - 25 de outubro de 2022",
+    "vice_presidente": "Nenhum"
+  },
+  "78": {
+    "titulo": "Presidente do Reino Unido 🇬🇧",
+    "posicao": "78",
+    "nome": "Rishi Sunak",
+    "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Portrait_of_Prime_Minister_Rishi_Sunak_(cropped).jpg",
+    "partido": "Conservador",
+    "ano_de_mandato": "25 de outubro de 2022 - presente",
+    "vice_presidente": "Nenhum"
+  }
+}

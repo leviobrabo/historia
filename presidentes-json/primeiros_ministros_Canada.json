@@ -1,0 +1,254 @@
+{
+    "1": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "1",
+      "nome": "John A. Macdonald",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:John_A_Macdonald-Brady-Handy-crop-retouched.jpg",
+      "partido": "Conservador Histórico - Liberal-Conservador",
+      "ano_de_mandato": "1 de julho de 1867 - 5 de novembro de 1873",
+      "vice_presidente": "Nenhum"
+    },
+    "2": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "2",
+      "nome": "Alexander Mackenzie",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Alexander_MacKenzie_-_portrait.jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "7 de novembro de 1873 - 8 de outubro de 1878",
+      "vice_presidente": "Nenhum"
+    },
+    "3": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "3",
+      "nome": "John A. Macdonald",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Sir_John_A_Macdonald_circa_1878_retouched.jpg",
+      "partido": "Conservador HistóricoLiberal-Conservador",
+      "ano_de_mandato": "17 de outubro de 1878 - 6 de junho de 1891",
+      "vice_presidente": "Nenhum"
+    },
+    "4": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "4",
+      "nome": "John Abbott",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:SirJohnAbbott1.jpg",
+      "partido": "Conservador HistóricoLiberal-Conservador",
+      "ano_de_mandato": "16 de junho de 1891 - 24 de novembro de 1892",
+      "vice_presidente": "Nenhum"
+    },
+    "5": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "5",
+      "nome": "John Thompson",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:John_Thompson.jpg",
+      "partido": "Conservador HistóricoLiberal-Conservador",
+      "ano_de_mandato": "5 de dezembro de 1892 - 12 de dezembro de 1894",
+      "vice_presidente": "Nenhum"
+    },
+    "6": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "6",
+      "nome": "Mackenzie Bowell",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:SirMackenzieBowell.jpg",
+      "partido": "Conservador Histórico - Conservador",
+      "ano_de_mandato": "21 de dezembro de 1894 - 27 de abril de 1896",
+      "vice_presidente": "Nenhum"
+    },
+    "7": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "7",
+      "nome": "Charles Tupper",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Sir_charles_tupper.jpg",
+      "partido": "Conservador Histórico - Conservador",
+      "ano_de_mandato": "1 de maio de 1896 - 8 de julho de 1896",
+      "vice_presidente": "Nenhum"
+    },
+    "8": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "8",
+      "nome": "Wilfrid Laurier",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:WilfriedLaurier.jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "11 de julho de 1896 - 6 de outubro de 1911",
+      "vice_presidente": "Nenhum"
+    },
+    "9": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "9",
+      "nome": "Robert Borden",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Borden-sm.jpg",
+      "partido": "Conservador Histórico - Conservador - Unionista",
+      "ano_de_mandato": "10 de outubro de 1911 - 10 de julho de 1920",
+      "vice_presidente": "Nenhum"
+    },
+    "10": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "10",
+      "nome": "Arthur Meighen",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Arthur_Meighen-.jpg",
+      "partido": "Conservador HistóricoLiberal e Conservador Nacional",
+      "ano_de_mandato": "10 de julho de 1920 - 29 de dezembro de 1921",
+      "vice_presidente": "Nenhum"
+    },
+    "11": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "11",
+      "nome": "Mackenzie King",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:King1920.jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "29 de dezembro de 1921 - 28 de junho de 1926",
+      "vice_presidente": "Nenhum"
+    },
+    "12": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "12",
+      "nome": "Arthur Meighen",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Former_PM_Arthur_Meighen.jpg",
+      "partido": "Conservador Histórico - Conservador",
+      "ano_de_mandato": "29 de junho de 1926 - 25 de setembro de 1926",
+      "vice_presidente": "Nenhum"
+    },
+    "13": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "13",
+      "nome": "Mackenzie King",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:William_Lyon_Mackenzie_King_-_William_Lyon_Mackenzie_King_(39973407352).jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "25 de setembro de 1926 - 7 de agosto de 1930",
+      "vice_presidente": "Nenhum"
+    },
+    "14": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "14",
+      "nome": "R. B. Bennett",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Richard_Bedford_Bennett.jpg",
+      "partido": "Conservador Histórico - Conservador",
+      "ano_de_mandato": "7 de agosto de 1930 - 23 de outubro de 1935",
+      "vice_presidente": "Nenhum"
+    },
+    "15": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "15",
+      "nome": "Mackenzie King",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Wm_Lyon_Mackenzie_King.jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "23 de outubro de 1935 - 15 de novembro de 1948",
+      "vice_presidente": "Nenhum"
+    },
+    "16": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "16",
+      "nome": "Louis St. Laurent",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Louisstlaurent.jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "15 de novembro de 1948 - 21 de junho de 1957",
+      "vice_presidente": "Nenhum"
+    },
+    "17": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "17",
+      "nome": "John Diefenbaker",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:John_G._Diefenbaker.jpg",
+      "partido": "Conservador Histórico - Progressista Conservador",
+      "ano_de_mandato": "21 de junho de 1957 - 22 de abril de 1963",
+      "vice_presidente": "Nenhum"
+    },
+    "18": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "18",
+      "nome": "Lester B. Pearson",
+      "foto": "https://pt.wikipedia.org",
+      "partido": "Liberal",
+      "ano_de_mandato": "22 de abril de 1963 - 20 de abril de 1968",
+      "vice_presidente": "Nenhum"
+    },
+    "19": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "19",
+      "nome": "Pierre Trudeau",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Pierre_Trudeau_(1975)_cropped.jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "20 de abril de 1968 - 4 de junho de 1979",
+      "vice_presidente": "Nenhum"
+    },
+    "20": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "20",
+      "nome": "Joe Clark",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:JoeClark.jpg",
+      "partido": "Conservador Histórico - Progressista Conservador",
+      "ano_de_mandato": "4 de junho de 1979 - 3 de março de 1980",
+      "vice_presidente": "Nenhum"
+    },
+    "21": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "21",
+      "nome": "Pierre Trudeau",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Pierre_Trudeau_(1975)_cropped.jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "3 de março de 1980 - 30 de junho de 1984",
+      "vice_presidente": "Nenhum"
+    },
+    "22": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "22",
+      "nome": "John Turner",
+      "foto": "https://pt.wikipedia.org",
+      "partido": "Liberal",
+      "ano_de_mandato": "30 de junho de 1984 - 17 de setembro de 1984",
+      "vice_presidente": "Nenhum"
+    },
+    "23": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "23",
+      "nome": "Brian Mulroney",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Brian_Mulroney_2011.jpg",
+      "partido": "Conservador Histórico - Progressista Conservador",
+      "ano_de_mandato": "17 de setembro de 1984 - 25 de julho de 1993",
+      "vice_presidente": "Nenhum"
+    },
+    "24": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "24",
+      "nome": "Kim Campbell",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:KimCampbell_Crop.jpg",
+      "partido": "Conservador Histórico - Progressista Conservador",
+      "ano_de_mandato": "25 de julho de 1993 - 4 de novembro de 1993",
+      "vice_presidente": "Nenhum"
+    },
+    "25": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "25",
+      "nome": "Jean Chrétien",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Jean_Chr%C3%A9tien_2010_(cropped).jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "4 de novembro de 1993 - 12 de dezembro de 2003",
+      "vice_presidente": "Nenhum"
+    },
+    "26": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "26",
+      "nome": "Paul Martin",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Paul_Martin.jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "12 de dezembro de 2003 - 6 de fevereiro de 2006",
+      "vice_presidente": "Nenhum"
+    },
+    "27": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "27",
+      "nome": "Stephen Harper",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Stephen-Harper-Cropped-2014-02-18.png",
+      "partido": "Conservador",
+      "ano_de_mandato": "6 de fevereiro de 2006 - 4 de novembro de 2015",
+      "vice_presidente": "Nenhum"
+    },
+    "28": {
+      "titulo": "Primeiro-Ministro do Canadá 🇨🇦",
+      "posicao": "28",
+      "nome": "Justin Trudeau",
+      "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Trudeau_visit_White_House_for_USMCA_(cropped)_(rotated).jpg",
+      "partido": "Liberal",
+      "ano_de_mandato": "4 de novembro de 2015 - Em exercício",
+      "vice_presidente": "Nenhum"
+    }
+  }

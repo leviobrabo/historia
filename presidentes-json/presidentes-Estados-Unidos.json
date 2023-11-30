@@ -1,0 +1,416 @@
+{
+    "1": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "1",
+        "nome": "George Washington",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+        "partido": "Sem partido",
+        "ano_de_mandato": "30 de abril de 1789 – 4 de março de 1797",
+        "vice_presidente": "John Adams"
+    },
+    "2": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "2",
+        "nome": "John Adams",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:John_Trumbull_-_John_Adams_-_Google_Art_Project_(498015).jpg",
+        "partido": "Federalista",
+        "ano_de_mandato": "4 de março de 1797 – 4 de março de 1801",
+        "vice_presidente": "Thomas Jefferson"
+    },
+    "3": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "3",
+        "nome": "Thomas Jefferson",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Rembrandt_Peale_-_Thomas_Jefferson_-_Google_Art_Project.jpg",
+        "partido": "Democrata-Republicano",
+        "ano_de_mandato": "4 de março de 1801 – 4 de março de 1809",
+        "vice_presidente": "Aaron Burr"
+    },
+    "4": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "4",
+        "nome": "James Madison",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:John_Vanderlyn_-_James_Madison_-_Google_Art_Project.jpg",
+        "partido": "Democrata-Republicano",
+        "ano_de_mandato": "4 de março de 1809 – 4 de março de 1817",
+        "vice_presidente": "Eleição presidencial nos Estados Unidos em 1808"
+    },
+    "5": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "5",
+        "nome": "James Monroe",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Samuel_F._B._Morse_-_James_Monroe_-_Google_Art_Project.jpg",
+        "partido": "Democrata-Republicano",
+        "ano_de_mandato": "4 de março de 1817 – 4 de março de 1825",
+        "vice_presidente": "Daniel D. Tompkins"
+    },
+    "6": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "6",
+        "nome": "John Quincy Adams",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:John_Q._Adams.jpg",
+        "partido": "Democrata-Republicano",
+        "ano_de_mandato": "4 de março de 1825 – 4 de março de 1829",
+        "vice_presidente": "John C. Calhoun"
+    },
+    "7": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "7",
+        "nome": "Andrew Jackson",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ralph_Eleaser_Whiteside_Earl_-_Andrew_Jackson_-_Google_Art_Project.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "4 de março de 1829 – 4 de março de 1837",
+        "vice_presidente": "Eleição presidencial nos Estados Unidos em 1828"
+    },
+    "8": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "8",
+        "nome": "Martin Van Buren",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Martin_Van_Buren_edit.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "4 de março de 1837 – 4 de março de 1841",
+        "vice_presidente": "Richard Mentor Johnson"
+    },
+    "9": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "9",
+        "nome": "William Henry Harrison",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:William_Henry_Harrison_daguerreotype_edit.jpg",
+        "partido": "Whig",
+        "ano_de_mandato": "4 de março de 1841 – 4 de abril de 1841",
+        "vice_presidente": "John Tyler"
+    },
+    "10": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "10",
+        "nome": "John Tyler",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:John_Tyler,_Jr.jpg",
+        "partido": "Whig",
+        "ano_de_mandato": "4 de abril de 1841 – 4 de março de 1845",
+        "vice_presidente": null
+    },
+    "11": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "11",
+        "nome": "James K. Polk",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:JKP.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "4 de março de 1845 – 4 de março de 1849",
+        "vice_presidente": "George M. Dallas"
+    },
+    "12": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "12",
+        "nome": "Zachary Taylor",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Zachary_Taylor_restored_and_cropped.jpg",
+        "partido": "Whig",
+        "ano_de_mandato": "4 de março de 1849 – 9 de julho de 1850",
+        "vice_presidente": "Millard Fillmore"
+    },
+    "13": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "13",
+        "nome": "Millard Fillmore",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Fillmore.jpg",
+        "partido": "Whig",
+        "ano_de_mandato": "9 de julho de 1850 – 4 de março de 1853",
+        "vice_presidente": null
+    },
+    "14": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "14",
+        "nome": "Franklin Pierce",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_(cropped).jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "4 de março de 1853 – 4 de março de 1857",
+        "vice_presidente": "William R. King"
+    },
+    "15": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "15",
+        "nome": "James Buchanan",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:James_Buchanan.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "4 de março de 1857 – 4 de março de 1861",
+        "vice_presidente": "John C. Breckinridge"
+    },
+    "16": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "16",
+        "nome": "Abraham Lincoln",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "4 de março de 1861 – 15 de abril de 1865",
+        "vice_presidente": "Hannibal Hamlin"
+    },
+    "17": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "17",
+        "nome": "Andrew Johnson",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Andrew_Johnson_photo_portrait_head_and_shoulders,_c1870-1880-Edit1.jpg",
+        "partido": "União Nacional",
+        "ano_de_mandato": "15 de abril de 1865 – 4 de março de 1869",
+        "vice_presidente": null
+    },
+    "18": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "18",
+        "nome": "Ulysses S. Grant",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ulysses_S_Grant_by_Brady_c1870-restored.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "4 de março de 1869 – 4 de março de 1877",
+        "vice_presidente": "Schuyler Colfax"
+    },
+    "19": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "19",
+        "nome": "Rutherford B. Hayes",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "4 de março de 1877 – 4 de março de 1881",
+        "vice_presidente": "William A. Wheeler"
+    },
+    "20": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "20",
+        "nome": "James A. Garfield",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:James_Abram_Garfield,_photo_portrait_seated.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "4 de março de 1881 – 19 de setembro de 1881",
+        "vice_presidente": "Chester A. Arthur"
+    },
+    "21": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "21",
+        "nome": "Chester A. Arthur",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Chester_Alan_Arthur.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "19 de setembro de 1881 – 4 de março de 1885",
+        "vice_presidente": null
+    },
+    "22": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "22",
+        "nome": "Grover Cleveland",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Grover_Cleveland_-_NARA_-_518139_(cropped).jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "4 de março de 1885 – 4 de março de 1889",
+        "vice_presidente": "Thomas A. Hendricks"
+    },
+    "23": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "23",
+        "nome": "Benjamin Harrison",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Benjamin_Harrison,_head_and_shoulders_bw_photo,_1896.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "4 de março de 1889 – 4 de março de 1893",
+        "vice_presidente": "Levi P. Morton"
+    },
+    "24": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "24",
+        "nome": "Grover Cleveland",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Grover_Cleveland_-_NARA_-_518139_(cropped).jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "4 de março de 1893 – 4 de março de 1897",
+        "vice_presidente": "Adlai Stevenson I"
+    },
+    "25": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "25",
+        "nome": "William McKinley",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Mckinley.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "4 de março de 1897 – 14 de setembro de 1901",
+        "vice_presidente": "Garret Hobart"
+    },
+    "26": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "26",
+        "nome": "Theodore Roosevelt",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:President_Roosevelt_-_Pach_Bros.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "14 de setembro de 1901 – 4 de março de 1909",
+        "vice_presidente": null
+    },
+    "27": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "27",
+        "nome": "William Howard Taft",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:William_Howard_Taft_-_Harris_and_Ewing.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "4 de março de 1909 – 4 de março de 1913",
+        "vice_presidente": "James S. Sherman"
+    },
+    "28": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "28",
+        "nome": "Woodrow Wilson",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Thomas_Woodrow_Wilson,_Harris_%26_Ewing_bw_photo_portrait,_1919.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "4 de março de 1913 – 4 de março de 1921",
+        "vice_presidente": "Thomas R. Marshall"
+    },
+    "29": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "29",
+        "nome": "Warren G. Harding",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Warren_G_Harding-Harris_%26_Ewing.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "4 de março de 1921 – 2 de agosto de 1923",
+        "vice_presidente": "Calvin Coolidge"
+    },
+    "30": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "30",
+        "nome": "Calvin Coolidge",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Calvin_Coolidge-by_Garo-1923.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "2 de agosto de 1923 – 4 de março de 1929",
+        "vice_presidente": null
+    },
+    "31": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "31",
+        "nome": "Herbert Hoover",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:President_Hoover_portrait.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "4 de março de 1929 – 4 de março de 1933",
+        "vice_presidente": "Charles Curtis"
+    },
+    "32": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "32",
+        "nome": "Franklin D. Roosevelt",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:FDR_1944_Color_Portrait.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "4 de março de 1933 – 12 de abril de 1945",
+        "vice_presidente": "John Nance Garner"
+    },
+    "33": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "33",
+        "nome": "Harry S. Truman",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:TRUMAN_58-766-06_CROPPED.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "12 de abril de 1945 – 20 de janeiro de 1953",
+        "vice_presidente": null
+    },
+    "34": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "34",
+        "nome": "Dwight D. Eisenhower",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Dwight_D._Eisenhower,_official_photo_portrait,_May_29,_1959.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "20 de janeiro de 1953 – 20 de janeiro de 1961",
+        "vice_presidente": "Richard Nixon"
+    },
+    "35": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "35",
+        "nome": "John F. Kennedy",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:John_F._Kennedy,_White_House_color_photo_portrait.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "20 de janeiro de 1961 – 22 de novembro de 1963",
+        "vice_presidente": "Lyndon B. Johnson"
+    },
+    "36": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "36",
+        "nome": "Lyndon B. Johnson",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:37_Lyndon_Johnson_3x4.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "22 de novembro de 1963 – 20 de janeiro de 1969",
+        "vice_presidente": null
+    },
+    "37": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "37",
+        "nome": "Richard Nixon",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Richard_Nixon_presidential_portrait_(1).jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "20 de janeiro de 1969 – 9 de agosto de 1974",
+        "vice_presidente": "Spiro Agnew"
+    },
+    "38": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "38",
+        "nome": "Gerald Ford",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Gerald_Ford_presidential_portrait.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "9 de agosto de 1974 – 20 de janeiro de 1977",
+        "vice_presidente": null
+    },
+    "39": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "39",
+        "nome": "Jimmy Carter",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:JimmyCarterPortrait2.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "20 de janeiro de 1977 – 20 de janeiro de 1981",
+        "vice_presidente": "Walter Mondale"
+    },
+    "40": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "40",
+        "nome": "Ronald Reagan",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Ronald_Reagan_1981_presidential_portrait.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "20 de janeiro de 1981 – 20 de janeiro de 1989",
+        "vice_presidente": "George H. W. Bush"
+    },
+    "41": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "41",
+        "nome": "George H. W. Bush",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:George_H._W._Bush_presidential_portrait_(cropped).jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "20 de janeiro de 1989 – 20 de janeiro de 1993",
+        "vice_presidente": "Dan Quayle"
+    },
+    "42": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "42",
+        "nome": "Bill Clinton",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Bill_Clinton.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "20 de janeiro de 1993 – 20 de janeiro de 2001",
+        "vice_presidente": "Al Gore"
+    },
+    "43": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "43",
+        "nome": "George W. Bush",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:George-W-Bush.jpeg",
+        "partido": "Republicano",
+        "ano_de_mandato": "20 de janeiro de 2001 – 20 de janeiro de 2009",
+        "vice_presidente": "Dick Cheney"
+    },
+    "44": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "44",
+        "nome": "Barack Obama",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:President_Barack_Obama.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "20 de janeiro de 2009 – 20 de janeiro de 2017",
+        "vice_presidente": "Joe Biden"
+    },
+    "45": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "45",
+        "nome": "Donald Trump",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Donald_Trump_official_portrait.jpg",
+        "partido": "Republicano",
+        "ano_de_mandato": "20 de janeiro de 2017 – 20 de janeiro de 2021",
+        "vice_presidente": "Mike Pence"
+    },
+    "46": {
+        "titulo": "Presidente do Estados Unidos 🇺🇸",
+        "posicao": "46",
+        "nome": "Joe Biden",
+        "foto": "https://pt.wikipedia.org/wiki/Ficheiro:Joe_Biden_presidential_portrait.jpg",
+        "partido": "Democrata",
+        "ano_de_mandato": "20 de janeiro de 2021 – em exercício",
+        "vice_presidente": "Kamala Harris"
+    }
+}
