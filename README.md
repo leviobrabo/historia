@@ -44,5 +44,10 @@ A compilação dos arquivos foi obtida por meio do crawling de páginas web. Sen
 
 # Como eu posso ajudar?
 
+## Contribuição
+
 Ajude-nos a entregar um conteúdo de qualidade, revisando os códigos e montando estruturas otimizadas. Toda ajuda é bem vinda! :)
 
+Contribuições são bem-vindas! Sinta-se à vontade para fazer fork deste repositório, adicionar novos recursos, corrigir bugs e enviar um pull request.
+
+[PR](https://github.com/leviobrabo/historia-de-hoje/pulls)
